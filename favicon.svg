@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#c4622d"/>
+  <g fill="#faf7f2">
+    <!-- ears -->
+    <path d="M16 14 L26 26 L13 27 Z"/>
+    <path d="M48 14 L38 26 L51 27 Z"/>
+    <!-- head -->
+    <path d="M32 20c-11 0-19 8-19 18 0 7 5 12 12 12h14c7 0 12-5 12-12 0-10-8-18-19-18z"/>
+  </g>
+  <!-- eyes -->
+  <ellipse cx="24" cy="38" rx="2.6" ry="3.4" fill="#1f1c18"/>
+  <ellipse cx="40" cy="38" rx="2.6" ry="3.4" fill="#1f1c18"/>
+  <!-- nose -->
+  <path d="M32 44 l-2.4 -2.6 h4.8 Z" fill="#c4622d"/>
+  <!-- whiskers -->
+  <g stroke="#1f1c18" stroke-width="1.4" stroke-linecap="round">
+    <path d="M30 46 L18 44"/>
+    <path d="M30 47.5 L19 49"/>
+    <path d="M34 46 L46 44"/>
+    <path d="M34 47.5 L45 49"/>
+  </g>
+</svg>
