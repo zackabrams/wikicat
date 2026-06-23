@@ -15,7 +15,9 @@ article gets).
 
 - **Source:** articles under Wikipedia's
   [Category:Individual cats](https://en.wikipedia.org/wiki/Category:Individual_cats)
-  (recursively, minus redirects and non-cat list pages) — 114 cats.
+  (recursively, minus redirects and non-cat list pages), plus a Wikidata
+  cross-check that recovered notable cats filed under sibling categories
+  (Chief mousers, Animal actors, Cat artists) — **117 cats**.
 - **Word count:** plain-text prose from the MediaWiki `extracts` API (excludes
   infobox, references, captions).
 - **Popularity:** total views over Jun 2025 – May 2026 from the
@@ -33,6 +35,8 @@ python3 longest_cat.py     # gather cats + word counts  -> cats.csv
 python3 finalize_cats.py   # drop redirects, tidy descriptions
 python3 popularity.py      # add pageview columns
 python3 build_data.py      # add types, thumbnails, monthly series -> cats_data.json
+python3 verify_completeness.py  # cross-check vs Wikidata for missed cats
+python3 add_cats.py        # merge in any notable cats found outside the category
 # open index.html (served over http, e.g. `python3 serve.py`)
 ```
 

@@ -522,6 +522,30 @@
    ]
   },
   {
+   "name": "Orangey",
+   "url": "https://en.wikipedia.org/wiki/Orangey",
+   "description": "Cat actor",
+   "word_count": 830,
+   "pageviews": 70631,
+   "type": "Other",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Orangey_with_Audrey_Hepburn_in_Breakfast_at_Tiffanys.jpg/250px-Orangey_with_Audrey_Hepburn_in_Breakfast_at_Tiffanys.jpg",
+   "monthly": [
+    4262,
+    4322,
+    10732,
+    5094,
+    8878,
+    6062,
+    5538,
+    7226,
+    5931,
+    4275,
+    3851,
+    4460
+   ],
+   "pct_of_cat": 0.822
+  },
+  {
    "name": "Lewis (cat)",
    "url": "https://en.wikipedia.org/wiki/Lewis_(cat)",
    "description": "Cat who gained media attention for being placed under house arrest",
@@ -1338,6 +1362,30 @@
    ]
   },
   {
+   "name": "Mugi the Cat",
+   "url": "https://en.wikipedia.org/wiki/Mugi_the_Cat",
+   "description": "Japanese singer-songwriter (born 1997)",
+   "word_count": 519,
+   "pageviews": 1650,
+   "type": "Other",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MugiTheCat_202002.jpg/250px-MugiTheCat_202002.jpg",
+   "monthly": [
+    181,
+    144,
+    162,
+    119,
+    119,
+    128,
+    133,
+    120,
+    123,
+    133,
+    159,
+    129
+   ],
+   "pct_of_cat": 0.019
+  },
+  {
    "name": "Tsim Tung Brother Cream",
    "url": "https://en.wikipedia.org/wiki/Tsim_Tung_Brother_Cream",
    "description": "British Shorthair cat (2005–2020)",
@@ -1456,6 +1504,30 @@
     1018,
     1033
    ]
+  },
+  {
+   "name": "Freya (cat)",
+   "url": "https://en.wikipedia.org/wiki/Freya_(cat)",
+   "description": "Chief Mouser to the Cabinet Office from 2012 to 2014",
+   "word_count": 466,
+   "pageviews": 84111,
+   "type": "Government mouser",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Freya_the_cat-20120615_132253_%28cropped%29.jpg/250px-Freya_the_cat-20120615_132253_%28cropped%29.jpg",
+   "monthly": [
+    4699,
+    7477,
+    4613,
+    4800,
+    4077,
+    4727,
+    4966,
+    13326,
+    18886,
+    4606,
+    5366,
+    6568
+   ],
+   "pct_of_cat": 0.979
   },
   {
    "name": "Nelson (cat)",
