@@ -57,6 +57,21 @@
   .rank{color:var(--muted);font-variant-numeric:tabular-nums}
   footer{max-width:1080px;margin:0 auto;padding:1rem 1.2rem 3rem;color:var(--muted);font-size:.82rem}
   footer a{color:var(--accent2)}
+  .name a::after{content:"↗";font-size:.7em;margin-left:.18em;vertical-align:super;opacity:0;transition:opacity .12s}
+  .name a:hover::after{opacity:.55}
+  .suggest{max-width:1080px;margin:1.5rem auto 0;padding:0 1.2rem}
+  .suggest .box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1.3rem}
+  .suggest h2{font-size:1.12rem;margin:.1rem 0 .3rem}
+  .suggest .lead{color:var(--muted);margin:.2rem 0 1rem;font-size:.9rem;max-width:62ch}
+  .fields{display:grid;gap:.6rem;grid-template-columns:1fr 1fr}
+  .fields input,.fields textarea{width:100%;padding:.55rem .7rem;border:1px solid var(--line);
+    border-radius:8px;background:var(--bg);color:var(--ink);font:inherit}
+  .fields textarea{grid-column:1/-1;min-height:68px;resize:vertical}
+  .suggest button{margin-top:.85rem;padding:.6rem 1.1rem;border:0;border-radius:8px;
+    background:var(--accent);color:#fff;font-size:.95rem;font-weight:600;cursor:pointer}
+  .suggest button:hover{filter:brightness(1.06)}
+  .hint{font-size:.78rem;color:var(--muted);margin-top:.6rem}
+  @media (max-width:560px){.fields{grid-template-columns:1fr}}
   @media (max-width:640px){
     .desc,.hide-sm{display:none}
     h1{font-size:1.45rem}
@@ -90,6 +105,21 @@
     <tbody id="rows"></tbody>
   </table>
 </main>
+<section class="suggest" id="suggest">
+  <div class="box">
+    <h2>🐾 Know a cat we're missing?</h2>
+    <p class="lead">This list is built from Wikipedia &amp; Wikidata, but notable cats can slip through the cracks. Suggest an <em>individual</em> cat that has its own English Wikipedia article and it'll be reviewed for inclusion.</p>
+    <form id="suggestForm">
+      <div class="fields">
+        <input id="sgName" type="text" placeholder="Cat's name *" required>
+        <input id="sgUrl" type="url" placeholder="Wikipedia article URL (optional)">
+        <textarea id="sgWhy" placeholder="Why is this cat notable? (optional)"></textarea>
+      </div>
+      <button type="submit">Send suggestion ✉</button>
+      <div class="hint" id="sgHint">Opens your email app with the details pre-filled — nothing is sent until you hit send.</div>
+    </form>
+  </div>
+</section>
 <footer id="foot"></footer>
 
 <script>
@@ -166,6 +196,28 @@ fetch("cats_data.json").then(r=>r.json()).then(d=>{
      Generated ${d.generated}. Images &amp; text &copy; their authors via Wikimedia.`;
   setSort("word_count");
 });
+
+// Suggestion box -> opens a pre-filled email. Address is assembled at runtime
+// (not hardcoded in markup) to reduce spam scraping.
+(function(){
+  const form=document.getElementById("suggestForm");
+  form.addEventListener("submit",e=>{
+    e.preventDefault();
+    const name=document.getElementById("sgName").value.trim();
+    if(!name) return;
+    const url=document.getElementById("sgUrl").value.trim();
+    const why=document.getElementById("sgWhy").value.trim();
+    const to=["zackdabrams","gmail.com"].join("@");
+    const subject="Wikicat suggestion: "+name;
+    const body=
+      "Cat name: "+name+"\n"+
+      "Wikipedia URL: "+(url||"(not provided)")+"\n\n"+
+      "Why notable: "+(why||"(not provided)")+"\n\n"+
+      "— sent from "+location.href;
+    window.location.href="mailto:"+to+"?subject="+encodeURIComponent(subject)+"&body="+encodeURIComponent(body);
+    document.getElementById("sgHint").textContent="Thanks! Your email app should be opening…";
+  });
+})();
 </script>
 </body>
 </html>
