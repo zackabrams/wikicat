@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "wikicat", "runtimeExecutable": "python3", "runtimeArgs": ["/Users/zackabrams/Downloads/wikicat/serve.py"], "port": 8754 }
+  ]
+}
