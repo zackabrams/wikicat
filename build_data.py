@@ -12,6 +12,7 @@ import csv
 import json
 import time
 import sys
+import datetime
 import urllib.parse
 import requests
 
@@ -21,8 +22,27 @@ REST = ("https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/"
 S = requests.Session()
 S.headers.update({"User-Agent": "longest-cat-finder/1.0 (research; zackdabrams@gmail.com)"})
 
-START, END = "2025060100", "2026053100"
-MONTHS = [f"2025{m:02d}" for m in range(6, 13)] + [f"2026{m:02d}" for m in range(1, 6)]
+
+def compute_window(today=None):
+    """Rolling 12 complete months ending last month. Returns
+    (start, end, [YYYYMM]*12, 'Mon YYYY - Mon YYYY')."""
+    today = today or datetime.date.today()
+    last = today.replace(day=1) - datetime.timedelta(days=1)  # last day, prev month
+    end_idx = last.year * 12 + (last.month - 1)               # month index of window end
+    start_idx = end_idx - 11
+    months = []
+    for k in range(12):
+        yy, mm = divmod(start_idx + k, 12)
+        months.append(f"{yy:04d}{mm + 1:02d}")
+    sy, sm = divmod(start_idx, 12)
+    start = f"{sy:04d}{sm + 1:02d}0100"
+    end = f"{last.year:04d}{last.month:02d}{last.day:02d}00"
+    label = (f"{datetime.date(sy, sm + 1, 1):%b %Y} - "
+             f"{datetime.date(last.year, last.month, 1):%b %Y}")
+    return start, end, months, label
+
+
+START, END, MONTHS, WINDOW_LABEL = compute_window()
 
 # (label, category-substring keywords) in priority order; first match wins.
 TYPE_RULES = [
@@ -140,9 +160,9 @@ def main():
 
     payload = {
         "generated": time.strftime("%Y-%m-%d"),
-        "window": "Jun 2025 - May 2026",
+        "window": WINDOW_LABEL,
         "months": MONTHS,
-        "cat_article_views": 8593151,
+        "cat_article_views": sum(monthly_views("Cat")),
         "cats": out,
     }
     with open("cats_data.json", "w", encoding="utf-8") as f:

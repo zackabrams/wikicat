@@ -17,7 +17,7 @@ article gets).
   [Category:Individual cats](https://en.wikipedia.org/wiki/Category:Individual_cats)
   (recursively, minus redirects and non-cat list pages), plus a Wikidata
   cross-check that recovered notable cats filed under sibling categories
-  (Chief mousers, Animal actors, Cat artists) — **117 cats**.
+  (Chief mousers, Animal actors, Cat artists) — **116 cats**.
 - **Word count:** plain-text prose from the MediaWiki `extracts` API (excludes
   infobox, references, captions).
 - **Popularity:** total views over Jun 2025 – May 2026 from the

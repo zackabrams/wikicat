@@ -6,8 +6,16 @@
 <title>The Longest-Page Cats of Wikipedia</title>
 <meta name="description" content="Every individual cat with an English Wikipedia article, ranked by article length and yearly pageviews.">
 <meta property="og:title" content="The Longest-Page Cats of Wikipedia">
-<meta property="og:description" content="114 famous cats ranked by Wikipedia article length and popularity. Larry the Chief Mouser wins.">
+<meta property="og:description" content="116 famous cats ranked by Wikipedia article length and popularity. Larry the Chief Mouser wins.">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://zackabrams.github.io/wikicat/">
+<meta property="og:image" content="https://zackabrams.github.io/wikicat/og-image.jpg">
+<meta property="og:image:width" content="1195">
+<meta property="og:image:height" content="1600">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Longest-Page Cats of Wikipedia">
+<meta name="twitter:description" content="116 famous cats ranked by Wikipedia article length and popularity. Larry the Chief Mouser wins.">
+<meta name="twitter:image" content="https://zackabrams.github.io/wikicat/og-image.jpg">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -170,17 +178,43 @@ function render(){
     </tr>`;
   }).join("");
   document.getElementById("count").textContent = `${view.length} of ${rows.length} cats`;
+  writeHash();
+}
+
+function updateArrows(){
+  document.querySelectorAll("th[data-key]").forEach(th=>{
+    th.classList.toggle("sorted", th.dataset.key===sortKey);
+    th.querySelector(".arrow").textContent =
+      th.dataset.key===sortKey ? (sortDir>0?"↑":"↓") : "↕";
+  });
+}
+
+// Sync current view (sort + search + type filter) to the URL hash so a
+// specific view can be shared as a link. Default view keeps the URL clean.
+function writeHash(){
+  const q=document.getElementById("q").value.trim();
+  const t=document.getElementById("type").value;
+  const isDefault = sortKey==="word_count" && sortDir<0 && !q && !t;
+  const p=new URLSearchParams();
+  if(sortKey){ p.set("sort",sortKey); p.set("dir",sortDir>0?"asc":"desc"); }
+  if(q) p.set("q",q);
+  if(t) p.set("type",t);
+  history.replaceState(null,"", isDefault ? location.pathname+location.search : "#"+p.toString());
+}
+function applyHash(){
+  const p=new URLSearchParams(location.hash.replace(/^#/,""));
+  const q=p.get("q"); if(q) document.getElementById("q").value=q;
+  const t=p.get("type"); if(t) document.getElementById("type").value=t;
+  const s=p.get("sort");
+  if(s && rows.length && (s in rows[0])){ sortKey=s; sortDir = p.get("dir")==="asc"?1:-1; }
+  else { sortKey="word_count"; sortDir=-1; }
+  updateArrows(); render();
 }
 
 function setSort(key){
   if(sortKey===key){ sortDir*=-1; }
   else { sortKey=key; sortDir = (typeof rows[0][key]==="string")?1:-1; }
-  document.querySelectorAll("th[data-key]").forEach(th=>{
-    th.classList.toggle("sorted", th.dataset.key===sortKey);
-    const a=th.querySelector(".arrow");
-    a.textContent = th.dataset.key===sortKey ? (sortDir>0?"↑":"↓") : "↕";
-  });
-  render();
+  updateArrows(); render();
 }
 
 fetch("cats_data.json").then(r=>r.json()).then(d=>{
@@ -198,7 +232,7 @@ fetch("cats_data.json").then(r=>r.json()).then(d=>{
      <a href="https://wikimedia.org/api/rest_v1/">Wikimedia Pageviews API</a>
      (the general <a href="https://en.wikipedia.org/wiki/Cat">Cat</a> article drew ${fmt(d.cat_article_views)} views in the same window).
      Generated ${d.generated}. Images &amp; text &copy; their authors via Wikimedia.`;
-  setSort("word_count");
+  applyHash();
 });
 
 // Suggestion box -> opens a pre-filled email. Address is assembled at runtime
