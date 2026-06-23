@@ -55,6 +55,11 @@
   tbody tr:hover{background:rgba(196,98,45,.05)}
   td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
   .thumb{width:54px;height:54px;border-radius:8px;object-fit:cover;display:block;background:var(--bar)}
+  .thumbwrap{position:relative;width:54px}
+  .aibadge{position:absolute;bottom:-3px;right:-3px;background:var(--accent2);color:#fff;
+    font-size:9px;font-weight:700;line-height:1;padding:2px 3px;border-radius:4px;
+    border:1.5px solid var(--card);letter-spacing:.02em}
+  .aibadge[title]{cursor:help}
   .ph{display:flex;align-items:center;justify-content:center;color:var(--muted)}
   .ph svg{width:30px;height:30px;opacity:.55}
   .name a{color:var(--ink);text-decoration:none;font-weight:600}
@@ -164,7 +169,12 @@ function render(){
   const maxV=Math.max(...rows.map(c=>c.pageviews));
   const tb=document.getElementById("rows");
   tb.innerHTML = view.map((c,i)=>{
-    const img = c.thumb ? `<img class="thumb" loading="lazy" src="${c.thumb}" alt="${c.name}">` : PLACEHOLDER;
+    let tip;
+    if(c.ai) tip = "AI-generated image, may not be fully accurate";
+    else if(c.thumb) tip = "Real image sourced from " + (c.thumb.includes("/commons/") ? "Wikimedia Commons" : "Wikipedia");
+    else tip = "No image available";
+    const pic = c.thumb ? `<img class="thumb" loading="lazy" src="${c.thumb}" alt="${c.name}">` : PLACEHOLDER;
+    const img = `<div class="thumbwrap" title="${tip}">${pic}${c.ai ? '<span class="aibadge">AI</span>' : ''}</div>`;
     return `<tr>
       <td class="rank">${i+1}</td>
       <td>${img}</td>
@@ -231,7 +241,8 @@ fetch("cats_data.json").then(r=>r.json()).then(d=>{
      length = plain-text word count, views = ${d.window} via the
      <a href="https://wikimedia.org/api/rest_v1/">Wikimedia Pageviews API</a>
      (the general <a href="https://en.wikipedia.org/wiki/Cat">Cat</a> article drew ${fmt(d.cat_article_views)} views in the same window).
-     Generated ${d.generated}. Images &amp; text &copy; their authors via Wikimedia.`;
+     Generated ${d.generated}. Photos &amp; text &copy; their authors via Wikimedia.
+     Thumbnails marked <span class="aibadge" style="position:static;border:0">AI</span> are watercolor illustrations generated with FLUX.1&nbsp;[schnell] for cats with no freely-licensed photo; their appearance is based on Wikipedia and cited sources and they are not photographs.`;
   applyHash();
 });
 

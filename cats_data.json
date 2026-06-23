@@ -73,7 +73,7 @@
    "pageviews": 275656,
    "pct_of_cat": 3.208,
    "type": "Space",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Felicette%2C_spacecat.jpg/250px-Felicette%2C_spacecat.jpg",
    "monthly": [
     15755,
     11996,
@@ -145,7 +145,7 @@
    "pageviews": 5209,
    "pct_of_cat": 0.061,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/homer-the-blind-wonder-cat.jpg",
    "monthly": [
     357,
     301,
@@ -159,7 +159,8 @@
     430,
     418,
     306
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Grumpy Cat",
@@ -217,7 +218,7 @@
    "pageviews": 52735,
    "pct_of_cat": 0.614,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/4/48/Humphrey_mouser.jpg",
    "monthly": [
     3268,
     4861,
@@ -361,7 +362,7 @@
    "pageviews": 15340,
    "pct_of_cat": 0.179,
    "type": "Working cat",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/7/74/Dewey_Readmore_Books.jpg",
    "monthly": [
     1285,
     1218,
@@ -385,7 +386,7 @@
    "pageviews": 21053,
    "pct_of_cat": 0.245,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Henri%2C_le_Chat_Noir_screenshot.png/250px-Henri%2C_le_Chat_Noir_screenshot.png",
    "monthly": [
     1589,
     1375,
@@ -409,7 +410,7 @@
    "pageviews": 14294,
    "pct_of_cat": 0.166,
    "type": "Other",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Casper_the_cat%2C_sitting_in_bus.jpg/250px-Casper_the_cat%2C_sitting_in_bus.jpg",
    "monthly": [
     906,
     869,
@@ -481,7 +482,7 @@
    "pageviews": 94250,
    "pct_of_cat": 1.097,
    "type": "Working cat",
-   "thumb": null,
+   "thumb": "img/oscar-therapy-cat.jpg",
    "monthly": [
     5054,
     6993,
@@ -495,7 +496,8 @@
     8095,
     8785,
     7990
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Orangey",
@@ -529,7 +531,7 @@
    "pageviews": 9509,
    "pct_of_cat": 0.111,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/lewis-cat.jpg",
    "monthly": [
     787,
     813,
@@ -543,7 +545,8 @@
     624,
     664,
     720
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Oscar (bionic cat)",
@@ -553,7 +556,7 @@
    "pageviews": 35158,
    "pct_of_cat": 0.409,
    "type": "Other",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Oscar_the_bionic_cat.jpg/250px-Oscar_the_bionic_cat.jpg",
    "monthly": [
     1595,
     2238,
@@ -601,7 +604,7 @@
    "pageviews": 52966,
    "pct_of_cat": 0.616,
    "type": "Ship's cat",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Able_Seacat_Simon_%28fair_use%29.jpg/250px-Able_Seacat_Simon_%28fair_use%29.jpg",
    "monthly": [
     4087,
     3708,
@@ -745,7 +748,7 @@
    "pageviews": 50257,
    "pct_of_cat": 0.585,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/olivia-benson-cat.jpg",
    "monthly": [
     4173,
     3130,
@@ -759,7 +762,8 @@
     3231,
     2932,
     2232
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Jorts (cat)",
@@ -769,7 +773,7 @@
    "pageviews": 31250,
    "pct_of_cat": 0.364,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg",
    "monthly": [
     2736,
     2423,
@@ -793,7 +797,7 @@
    "pageviews": 14266,
    "pct_of_cat": 0.166,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/michi-cat.jpg",
    "monthly": [
     947,
     941,
@@ -807,7 +811,8 @@
     1212,
     987,
     1063
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Munich Mouser",
@@ -817,7 +822,7 @@
    "pageviews": 24702,
    "pct_of_cat": 0.287,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "img/munich-mouser.jpg",
    "monthly": [
     1537,
     2574,
@@ -831,7 +836,8 @@
     1443,
     1669,
     1999
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Room 8",
@@ -841,7 +847,7 @@
    "pageviews": 39545,
    "pct_of_cat": 0.46,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/room-8.jpg",
    "monthly": [
     1152,
     1529,
@@ -855,7 +861,8 @@
     1099,
     1449,
     1531
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Kkongkkong",
@@ -961,7 +968,7 @@
    "pageviews": 24803,
    "pct_of_cat": 0.289,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/tara-cat.jpg",
    "monthly": [
     1774,
     1332,
@@ -975,7 +982,8 @@
     1638,
     2407,
     2554
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Longjiaosun",
@@ -985,7 +993,7 @@
    "pageviews": 11189,
    "pct_of_cat": 0.13,
    "type": "Station cat",
-   "thumb": null,
+   "thumb": "img/longjiaosun.jpg",
    "monthly": [
     0,
     0,
@@ -999,7 +1007,8 @@
     321,
     297,
     318
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Tibs the Great",
@@ -1009,7 +1018,7 @@
    "pageviews": 17488,
    "pct_of_cat": 0.204,
    "type": "Working cat",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Tibs_the_Great.jpg/250px-Tibs_the_Great.jpg",
    "monthly": [
     1290,
     1514,
@@ -1081,7 +1090,7 @@
    "pageviews": 33720,
    "pct_of_cat": 0.392,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/5/54/Peter_III_%28cat%29.png",
    "monthly": [
     2095,
     2974,
@@ -1177,7 +1186,7 @@
    "pageviews": 13000,
    "pct_of_cat": 0.151,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/dusty-the-klepto-kitty.jpg",
    "monthly": [
     996,
     985,
@@ -1191,7 +1200,8 @@
     1224,
     984,
     980
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Hamish McHamish",
@@ -1225,7 +1235,7 @@
    "pageviews": 77650,
    "pct_of_cat": 0.904,
    "type": "Science",
-   "thumb": null,
+   "thumb": "img/f-d-c-willard.jpg",
    "monthly": [
     7608,
     6353,
@@ -1239,7 +1249,8 @@
     11364,
     9156,
     6751
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Stepan (cat)",
@@ -1249,7 +1260,7 @@
    "pageviews": 20921,
    "pct_of_cat": 0.243,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "img/stepan-cat.jpg",
    "monthly": [
     1919,
     1441,
@@ -1263,7 +1274,8 @@
     1563,
     1204,
     1261
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Maru (cat)",
@@ -1273,7 +1285,7 @@
    "pageviews": 205135,
    "pct_of_cat": 2.387,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "img/maru-cat.jpg",
    "monthly": [
     4585,
     4676,
@@ -1287,7 +1299,8 @@
     5216,
     4832,
     5839
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Beerbohm (cat)",
@@ -1297,7 +1310,7 @@
    "pageviews": 5625,
    "pct_of_cat": 0.065,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/beerbohm-cat.jpg",
    "monthly": [
     307,
     314,
@@ -1311,7 +1324,8 @@
     448,
     356,
     321
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Peta (cat)",
@@ -1321,7 +1335,7 @@
    "pageviews": 30056,
    "pct_of_cat": 0.35,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/a/a6/Peta_%28chief_mouser%29.jpg",
    "monthly": [
     1941,
     3063,
@@ -1441,7 +1455,7 @@
    "pageviews": 37558,
    "pct_of_cat": 0.437,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "img/wilberforce-cat.jpg",
    "monthly": [
     2482,
     3469,
@@ -1455,7 +1469,8 @@
     1936,
     2441,
     3085
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Mike (cat)",
@@ -1513,7 +1528,7 @@
    "pageviews": 28198,
    "pct_of_cat": 0.328,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/b/b1/Cartoon_of_Nelson_%28cat%29%2C_from_Edwin_Cox%27s_%22Private_Lives%22.png",
    "monthly": [
     1892,
     2812,
@@ -1585,7 +1600,7 @@
    "pageviews": 81024,
    "pct_of_cat": 0.943,
    "type": "Fictional",
-   "thumb": null,
+   "thumb": "img/jones-fictional-cat.jpg",
    "monthly": [
     6471,
     5776,
@@ -1599,7 +1614,8 @@
     4222,
     5473,
     5472
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Sybil (cat)",
@@ -1609,7 +1625,7 @@
    "pageviews": 71385,
    "pct_of_cat": 0.831,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/b/b5/Sybil_the_cat.jpg",
    "monthly": [
     3997,
     7203,
@@ -1633,7 +1649,7 @@
    "pageviews": 10999,
    "pct_of_cat": 0.128,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "img/pot-roast-cat.jpg",
    "monthly": [
     813,
     793,
@@ -1647,7 +1663,8 @@
     729,
     965,
     1203
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Fred the Undercover Kitty",
@@ -1657,7 +1674,7 @@
    "pageviews": 11395,
    "pct_of_cat": 0.133,
    "type": "Working cat",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/f/f8/Fred_undercover_kitty.jpg",
    "monthly": [
     930,
     1099,
@@ -1705,7 +1722,7 @@
    "pageviews": 51296,
    "pct_of_cat": 0.597,
    "type": "Record holder",
-   "thumb": null,
+   "thumb": "img/frank-and-louie.jpg",
    "monthly": [
     1520,
     3029,
@@ -1719,7 +1736,8 @@
     3048,
     2469,
     4245
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Gli",
@@ -1753,7 +1771,7 @@
    "pageviews": 4436,
    "pct_of_cat": 0.052,
    "type": "Working cat",
-   "thumb": null,
+   "thumb": "img/simpkin-cat.jpg",
    "monthly": [
     217,
     274,
@@ -1767,7 +1785,8 @@
     398,
     372,
     397
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Pizza Cat",
@@ -1801,7 +1820,7 @@
    "pageviews": 21253,
    "pct_of_cat": 0.247,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/catmando.jpg",
    "monthly": [
     1281,
     1381,
@@ -1815,7 +1834,8 @@
     1374,
     1296,
     4984
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Browser (cat)",
@@ -1849,7 +1869,7 @@
    "pageviews": 31626,
    "pct_of_cat": 0.368,
    "type": "Record holder",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/f/f5/Meow_the_fat_cat.jpg",
    "monthly": [
     2587,
     3168,
@@ -1897,7 +1917,7 @@
    "pageviews": 18133,
    "pct_of_cat": 0.211,
    "type": "Record holder",
-   "thumb": null,
+   "thumb": "img/stewie-cat.jpg",
    "monthly": [
     1412,
     1444,
@@ -1911,7 +1931,8 @@
     2031,
     1626,
     1742
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Palmerston (cat)",
@@ -1969,7 +1990,7 @@
    "pageviews": 4424,
    "pct_of_cat": 0.051,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/dorofei.jpg",
    "monthly": [
     376,
     336,
@@ -1983,7 +2004,8 @@
     307,
     295,
     268
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "PepitoTheCat",
@@ -2041,7 +2063,7 @@
    "pageviews": 12235,
    "pct_of_cat": 0.142,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "img/billi-cat.jpg",
    "monthly": [
     5015,
     406,
@@ -2055,7 +2077,8 @@
     797,
     537,
     554
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Peter II (cat)",
@@ -2137,7 +2160,7 @@
    "pageviews": 149753,
    "pct_of_cat": 1.743,
    "type": "Record holder",
-   "thumb": null,
+   "thumb": "img/flossie-cat.jpg",
    "monthly": [
     11308,
     10613,
@@ -2151,7 +2174,8 @@
     8168,
     8617,
     9587
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Choupette",
@@ -2161,7 +2185,7 @@
    "pageviews": 58846,
    "pct_of_cat": 0.685,
    "type": "Working cat",
-   "thumb": null,
+   "thumb": "img/choupette.jpg",
    "monthly": [
     4194,
     4388,
@@ -2175,7 +2199,8 @@
     3775,
     3882,
     7770
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Cheeto (cat)",
@@ -2209,7 +2234,7 @@
    "pageviews": 280,
    "pct_of_cat": 0.003,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "img/elsie-cat.jpg",
    "monthly": [
     0,
     0,
@@ -2223,7 +2248,8 @@
     0,
     0,
     280
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Chmonya",
@@ -2233,7 +2259,7 @@
    "pageviews": 2765,
    "pct_of_cat": 0.032,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Virgo_the_Cat.jpg/250px-Virgo_the_Cat.jpg",
    "monthly": [
     0,
     0,
@@ -2257,7 +2283,7 @@
    "pageviews": 10404,
    "pct_of_cat": 0.121,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/prince-chunk.jpg",
    "monthly": [
     1963,
     731,
@@ -2271,7 +2297,8 @@
     944,
     824,
     641
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Little Nicky (cat)",
@@ -2281,7 +2308,7 @@
    "pageviews": 10632,
    "pct_of_cat": 0.124,
    "type": "Cloned",
-   "thumb": null,
+   "thumb": "img/little-nicky-cat.jpg",
    "monthly": [
     836,
     812,
@@ -2295,7 +2322,8 @@
     833,
     758,
     757
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Peter (chief mouser)",
@@ -2305,7 +2333,7 @@
    "pageviews": 28129,
    "pct_of_cat": 0.327,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "img/peter-chief-mouser.jpg",
    "monthly": [
     1863,
     3034,
@@ -2319,7 +2347,8 @@
     1583,
     1991,
     2256
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Mr. Nuts",
@@ -2401,7 +2430,7 @@
    "pageviews": 1941,
    "pct_of_cat": 0.023,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/winnie-feline.jpg",
    "monthly": [
     282,
     157,
@@ -2415,7 +2444,8 @@
     127,
     118,
     122
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Colonel Meow",
@@ -2425,7 +2455,7 @@
    "pageviews": 15526,
    "pct_of_cat": 0.181,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "img/colonel-meow.jpg",
    "monthly": [
     1174,
     1340,
@@ -2439,7 +2469,8 @@
     1233,
     1087,
     1260
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "CC (cat)",
@@ -2473,7 +2504,7 @@
    "pageviews": 88553,
    "pct_of_cat": 1.031,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/3/3d/Longcat_is_loooooooooong.jpg",
    "monthly": [
     13332,
     19869,
@@ -2497,7 +2528,7 @@
    "pageviews": 387110,
    "pct_of_cat": 4.505,
    "type": "Record holder",
-   "thumb": null,
+   "thumb": "img/creme-puff-cat.jpg",
    "monthly": [
     33861,
     35048,
@@ -2511,7 +2542,8 @@
     24578,
     27854,
     27004
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Nora (cat)",
@@ -2545,7 +2577,7 @@
    "pageviews": 2910,
    "pct_of_cat": 0.034,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "img/luna-the-fashion-kitty.jpg",
    "monthly": [
     364,
     215,
@@ -2559,7 +2591,8 @@
     207,
     251,
     232
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Smudge (People's Palace cat)",
@@ -2593,7 +2626,7 @@
    "pageviews": 11234,
    "pct_of_cat": 0.131,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "img/venus-cat.jpg",
    "monthly": [
     749,
     730,
@@ -2607,7 +2640,8 @@
     810,
     1023,
     1020
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Lord Tubbington",
@@ -2617,7 +2651,7 @@
    "pageviews": 956,
    "pct_of_cat": 0.011,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/lord-tubbington.jpg",
    "monthly": [
     0,
     0,
@@ -2631,7 +2665,8 @@
     181,
     85,
     102
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Rusik",
@@ -2641,7 +2676,7 @@
    "pageviews": 12097,
    "pct_of_cat": 0.141,
    "type": "Working cat",
-   "thumb": null,
+   "thumb": "img/rusik.jpg",
    "monthly": [
     870,
     876,
@@ -2655,7 +2690,8 @@
     1005,
     965,
     937
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Micka (cat)",
@@ -2665,7 +2701,7 @@
    "pageviews": 8832,
    "pct_of_cat": 0.103,
    "type": "Other",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Petr_Pavel.jpg/250px-Petr_Pavel.jpg",
    "monthly": [
     722,
     709,
@@ -2689,7 +2725,7 @@
    "pageviews": 15794,
    "pct_of_cat": 0.184,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/tuxedo-stan.jpg",
    "monthly": [
     1409,
     1301,
@@ -2703,7 +2739,8 @@
     1149,
     1071,
     1146
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Paddles (cat)",
@@ -2713,7 +2750,7 @@
    "pageviews": 15758,
    "pct_of_cat": 0.183,
    "type": "Internet celebrity",
-   "thumb": null,
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Paddles_%28cat%29.jpg/250px-Paddles_%28cat%29.jpg",
    "monthly": [
     1889,
     1230,
@@ -2737,7 +2774,7 @@
    "pageviews": 1821,
    "pct_of_cat": 0.021,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/peter-lord-s-cat.jpg",
    "monthly": [
     93,
     171,
@@ -2751,7 +2788,8 @@
     219,
     117,
     199
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Chico (cat)",
@@ -2761,7 +2799,7 @@
    "pageviews": 2128,
    "pct_of_cat": 0.025,
    "type": "Other",
-   "thumb": null,
+   "thumb": "img/chico-cat.jpg",
    "monthly": [
     319,
     139,
@@ -2775,7 +2813,8 @@
     180,
     156,
     147
-   ]
+   ],
+   "ai": true
   },
   {
    "name": "Rufus of England",
@@ -2785,7 +2824,7 @@
    "pageviews": 27248,
    "pct_of_cat": 0.317,
    "type": "Government mouser",
-   "thumb": null,
+   "thumb": "img/rufus-of-england.jpg",
    "monthly": [
     1695,
     3647,
@@ -2799,7 +2838,8 @@
     1478,
     1802,
     2017
-   ]
+   ],
+   "ai": true
   }
  ]
 }
