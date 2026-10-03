@@ -1,8 +1,7 @@
 {
- "generated": "2026-09-03",
- "window": "Sep 2025 - Aug 2026",
+ "generated": "2026-10-03",
+ "window": "Oct 2025 - Sep 2026",
  "months": [
-  "202509",
   "202510",
   "202511",
   "202512",
@@ -13,21 +12,21 @@
   "202605",
   "202606",
   "202607",
-  "202608"
+  "202608",
+  "202609"
  ],
- "cat_article_views": 8001296,
+ "cat_article_views": 7995709,
  "cats": [
   {
    "name": "Larry (cat)",
    "url": "https://en.wikipedia.org/wiki/Larry_(cat)",
    "description": "Chief Mouser to the Cabinet Office since 2011",
-   "word_count": 2311,
-   "pageviews": 882159,
-   "pct_of_cat": 11.025,
+   "word_count": 2290,
+   "pageviews": 891375,
+   "pct_of_cat": 11.148,
    "type": "Government mouser",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Larry_Chief_Mouser_%28cropped%29.jpg/250px-Larry_Chief_Mouser_%28cropped%29.jpg",
    "monthly": [
-    31656,
     24849,
     29114,
     35740,
@@ -38,20 +37,20 @@
     46539,
     203845,
     204282,
-    55467
+    55467,
+    40872
    ]
   },
   {
    "name": "Keyboard Cat",
    "url": "https://en.wikipedia.org/wiki/Keyboard_Cat",
    "description": "Internet meme",
-   "word_count": 2014,
-   "pageviews": 108044,
-   "pct_of_cat": 1.35,
+   "word_count": 2063,
+   "pageviews": 104099,
+   "pct_of_cat": 1.302,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Keyboard_cat.jpg/250px-Keyboard_cat.jpg",
    "monthly": [
-    12026,
     9585,
     8947,
     8381,
@@ -62,44 +61,20 @@
     8802,
     8870,
     9941,
-    8068
-   ]
-  },
-  {
-   "name": "Félicette",
-   "url": "https://en.wikipedia.org/wiki/Félicette",
-   "description": "Only cat launched into space",
-   "word_count": 1892,
-   "pageviews": 278222,
-   "pct_of_cat": 3.477,
-   "type": "Space",
-   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Felicette%2C_spacecat.jpg/250px-Felicette%2C_spacecat.jpg",
-   "monthly": [
-    18660,
-    38640,
-    26608,
-    17043,
-    14889,
-    14904,
-    18947,
-    64884,
-    18731,
-    15090,
-    14906,
-    14920
+    8068,
+    8081
    ]
   },
   {
    "name": "Tama (cat)",
    "url": "https://en.wikipedia.org/wiki/Tama_(cat)",
    "description": "Calico cat and station master (1999–2015)",
-   "word_count": 1846,
-   "pageviews": 95763,
-   "pct_of_cat": 1.197,
+   "word_count": 1894,
+   "pageviews": 94533,
+   "pct_of_cat": 1.182,
    "type": "Station cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Station-Master_Tama.JPG/250px-Station-Master_Tama.JPG",
    "monthly": [
-    7436,
     8077,
     8506,
     5198,
@@ -110,20 +85,44 @@
     7169,
     5853,
     13031,
-    4951
+    4951,
+    6206
+   ]
+  },
+  {
+   "name": "Félicette",
+   "url": "https://en.wikipedia.org/wiki/Félicette",
+   "description": "Only cat launched into space",
+   "word_count": 1892,
+   "pageviews": 272995,
+   "pct_of_cat": 3.414,
+   "type": "Space",
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Felicette%2C_spacecat.jpg/250px-Felicette%2C_spacecat.jpg",
+   "monthly": [
+    38640,
+    26608,
+    17043,
+    14889,
+    14904,
+    18947,
+    64884,
+    18731,
+    15090,
+    14906,
+    14920,
+    13433
    ]
   },
   {
    "name": "Socks (cat)",
    "url": "https://en.wikipedia.org/wiki/Socks_(cat)",
    "description": "Cat belonging to Bill Clinton and family",
-   "word_count": 1653,
-   "pageviews": 88485,
-   "pct_of_cat": 1.106,
+   "word_count": 1654,
+   "pageviews": 90142,
+   "pct_of_cat": 1.127,
    "type": "Presidential",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Socks_the_Cat.jpg/250px-Socks_the_Cat.jpg",
    "monthly": [
-    7470,
     7922,
     12381,
     7585,
@@ -134,7 +133,8 @@
     6227,
     6096,
     6164,
-    6786
+    6786,
+    9127
    ]
   },
   {
@@ -142,12 +142,11 @@
    "url": "https://en.wikipedia.org/wiki/Homer_the_Blind_Wonder_Cat",
    "description": "Eyeless cat and bestselling-memoir subject (1997–2013)",
    "word_count": 1469,
-   "pageviews": 5306,
-   "pct_of_cat": 0.066,
+   "pageviews": 5123,
+   "pct_of_cat": 0.064,
    "type": "Other",
    "thumb": "img/homer-the-blind-wonder-cat.jpg",
    "monthly": [
-    706,
     534,
     434,
     455,
@@ -158,7 +157,8 @@
     306,
     367,
     387,
-    370
+    370,
+    523
    ],
    "ai": true
   },
@@ -167,12 +167,11 @@
    "url": "https://en.wikipedia.org/wiki/Grumpy_Cat",
    "description": "Cat and internet meme celebrity (2012–2019)",
    "word_count": 1278,
-   "pageviews": 181332,
-   "pct_of_cat": 2.266,
+   "pageviews": 178120,
+   "pct_of_cat": 2.228,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg/250px-Grumpy_Cat_%2814556024763%29_%28cropped%29.jpg",
    "monthly": [
-    17484,
     14558,
     16929,
     17568,
@@ -183,7 +182,8 @@
     15922,
     14637,
     15479,
-    13888
+    13888,
+    14272
    ]
   },
   {
@@ -191,12 +191,11 @@
    "url": "https://en.wikipedia.org/wiki/Francine_(cat)",
    "description": "Viral cat in Richmond, Virginia",
    "word_count": 1259,
-   "pageviews": 37606,
-   "pct_of_cat": 0.47,
+   "pageviews": 34850,
+   "pct_of_cat": 0.436,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Francine_%28cat%29_in_Lowe%27s.jpg/250px-Francine_%28cat%29_in_Lowe%27s.jpg",
    "monthly": [
-    4807,
     18760,
     1783,
     2733,
@@ -207,20 +206,20 @@
     1076,
     910,
     1254,
-    1136
+    1136,
+    2051
    ]
   },
   {
    "name": "Humphrey (cat)",
    "url": "https://en.wikipedia.org/wiki/Humphrey_(cat)",
    "description": "Chief Mouser to the Cabinet Office from 1989 to 1997",
-   "word_count": 1219,
-   "pageviews": 79644,
-   "pct_of_cat": 0.995,
+   "word_count": 1215,
+   "pageviews": 80275,
+   "pct_of_cat": 1.004,
    "type": "Government mouser",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/4/48/Humphrey_mouser.jpg",
    "monthly": [
-    3295,
     3025,
     3022,
     3182,
@@ -231,7 +230,8 @@
     4242,
     16177,
     18120,
-    4597
+    4597,
+    3926
    ]
   },
   {
@@ -239,12 +239,11 @@
    "url": "https://en.wikipedia.org/wiki/Mikan_(cat)",
    "description": "Cat and station master (born 2020)",
    "word_count": 1202,
-   "pageviews": 53735,
-   "pct_of_cat": 0.672,
+   "pageviews": 54563,
+   "pct_of_cat": 0.682,
    "type": "Station cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2021.03.19_%E7%B8%BD%E7%B5%B1%E6%8E%A2%E7%8F%AD%E3%80%8C%E6%8D%B7%E9%81%8B%E6%A9%8B%E9%A0%AD%E7%B3%96%E5%BB%A0%E7%AB%99%E8%B2%93%E7%AB%99%E9%95%B7%E3%80%8E%E8%9C%9C%E6%9F%91%E3%80%8F%E3%80%8D_01.jpg/250px-2021.03.19_%E7%B8%BD%E7%B5%B1%E6%8E%A2%E7%8F%AD%E3%80%8C%E6%8D%B7%E9%81%8B%E6%A9%8B%E9%A0%AD%E7%B3%96%E5%BB%A0%E7%AB%99%E8%B2%93%E7%AB%99%E9%95%B7%E3%80%8E%E8%9C%9C%E6%9F%91%E3%80%8F%E3%80%8D_01.jpg",
    "monthly": [
-    337,
     40160,
     2388,
     1191,
@@ -255,7 +254,8 @@
     1113,
     988,
     1085,
-    915
+    915,
+    1165
    ]
   },
   {
@@ -263,12 +263,11 @@
    "url": "https://en.wikipedia.org/wiki/Unsinkable_Sam",
    "description": "Cat who survived three sinking ships",
    "word_count": 1134,
-   "pageviews": 152460,
-   "pct_of_cat": 1.905,
+   "pageviews": 151611,
+   "pct_of_cat": 1.896,
    "type": "Ship's cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Oscar%2C_cat_from_the_German_ship_%27Bismarck%27.jpg/250px-Oscar%2C_cat_from_the_German_ship_%27Bismarck%27.jpg",
    "monthly": [
-    11611,
     14551,
     13688,
     13933,
@@ -279,7 +278,8 @@
     14270,
     10837,
     11095,
-    11860
+    11860,
+    10762
    ]
   },
   {
@@ -287,12 +287,11 @@
    "url": "https://en.wikipedia.org/wiki/Think_Think_and_Ah_Tsai",
    "description": "Cats belonging to Tsai Ing-wen",
    "word_count": 1126,
-   "pageviews": 25882,
-   "pct_of_cat": 0.323,
+   "pageviews": 25748,
+   "pct_of_cat": 0.322,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/04.12_%E7%B8%BD%E7%B5%B1%E8%A7%80%E8%B3%9E%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92%E6%AF%94%E8%B3%BD_Tsai_Ing-Wen_watching_baseball_with_Ah_Tsai.jpg/250px-04.12_%E7%B8%BD%E7%B5%B1%E8%A7%80%E8%B3%9E%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92%E6%AF%94%E8%B3%BD_Tsai_Ing-Wen_watching_baseball_with_Ah_Tsai.jpg",
    "monthly": [
-    2073,
     4802,
     2120,
     2105,
@@ -303,7 +302,8 @@
     1811,
     1741,
     2015,
-    1831
+    1831,
+    1939
    ]
   },
   {
@@ -311,12 +311,11 @@
    "url": "https://en.wikipedia.org/wiki/Lil_Bub",
    "description": "Internet celebrity cat (2011–2019)",
    "word_count": 1119,
-   "pageviews": 57035,
-   "pct_of_cat": 0.713,
+   "pageviews": 54412,
+   "pct_of_cat": 0.681,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lil-Bub-2013_%28cropped%29.jpg/250px-Lil-Bub-2013_%28cropped%29.jpg",
    "monthly": [
-    6797,
     5108,
     5675,
     5382,
@@ -327,7 +326,8 @@
     4315,
     4460,
     4174,
-    3670
+    3670,
+    4174
    ]
   },
   {
@@ -335,12 +335,11 @@
    "url": "https://en.wikipedia.org/wiki/Hodge_(cat)",
    "description": "Samuel Johnson's cat",
    "word_count": 1100,
-   "pageviews": 21435,
-   "pct_of_cat": 0.268,
+   "pageviews": 22196,
+   "pct_of_cat": 0.278,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hodgecat_flickr.jpg/250px-Hodgecat_flickr.jpg",
    "monthly": [
-    1429,
     2003,
     1654,
     1698,
@@ -351,7 +350,8 @@
     1797,
     1671,
     1865,
-    1628
+    1628,
+    2190
    ]
   },
   {
@@ -359,12 +359,11 @@
    "url": "https://en.wikipedia.org/wiki/Tiddles",
    "description": "Cat at Paddington Station, London",
    "word_count": 995,
-   "pageviews": 11222,
-   "pct_of_cat": 0.14,
+   "pageviews": 11239,
+   "pct_of_cat": 0.141,
    "type": "Station cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tiddles_%281970%E2%80%931983%29%2C_Paddington_Station.jpg/250px-Tiddles_%281970%E2%80%931983%29%2C_Paddington_Station.jpg",
    "monthly": [
-    863,
     1020,
     820,
     875,
@@ -375,7 +374,8 @@
     877,
     892,
     1102,
-    1117
+    1117,
+    880
    ]
   },
   {
@@ -383,12 +383,11 @@
    "url": "https://en.wikipedia.org/wiki/Dewey_Readmore_Books",
    "description": "Resident cat at the Spencer Public Library in Spencer, Iowa, US",
    "word_count": 951,
-   "pageviews": 15054,
-   "pct_of_cat": 0.188,
+   "pageviews": 14987,
+   "pct_of_cat": 0.187,
    "type": "Working cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/7/74/Dewey_Readmore_Books.jpg",
    "monthly": [
-    1395,
     1278,
     1326,
     1178,
@@ -399,7 +398,8 @@
     1424,
     1297,
     1189,
-    1089
+    1089,
+    1328
    ]
   },
   {
@@ -407,12 +407,11 @@
    "url": "https://en.wikipedia.org/wiki/Henri,_le_Chat_Noir",
    "description": "Web series known for its cat protagonist",
    "word_count": 945,
-   "pageviews": 20937,
-   "pct_of_cat": 0.262,
+   "pageviews": 20845,
+   "pct_of_cat": 0.261,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Henri%2C_le_Chat_Noir_screenshot.png/250px-Henri%2C_le_Chat_Noir_screenshot.png",
    "monthly": [
-    1659,
     1664,
     1743,
     1717,
@@ -423,7 +422,8 @@
     1522,
     1433,
     1757,
-    1540
+    1540,
+    1567
    ]
   },
   {
@@ -431,12 +431,11 @@
    "url": "https://en.wikipedia.org/wiki/Casper_(cat)",
    "description": "Cat from Plymouth that commuted by bus",
    "word_count": 933,
-   "pageviews": 12925,
-   "pct_of_cat": 0.162,
+   "pageviews": 12759,
+   "pct_of_cat": 0.16,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Casper_the_cat%2C_sitting_in_bus.jpg/250px-Casper_the_cat%2C_sitting_in_bus.jpg",
    "monthly": [
-    1001,
     1586,
     1157,
     938,
@@ -447,7 +446,8 @@
     976,
     1243,
     1204,
-    964
+    964,
+    835
    ]
   },
   {
@@ -455,12 +455,11 @@
    "url": "https://en.wikipedia.org/wiki/Sanjuro_(cat)",
    "description": "Japanese cat in Takahashi, Okayama",
    "word_count": 916,
-   "pageviews": 4998,
-   "pct_of_cat": 0.062,
+   "pageviews": 5153,
+   "pct_of_cat": 0.064,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/%E3%81%95%E3%82%93%E3%81%98%E3%82%85%E3%83%BC%E3%82%8D%E3%83%BC.jpg/250px-%E3%81%95%E3%82%93%E3%81%98%E3%82%85%E3%83%BC%E3%82%8D%E3%83%BC.jpg",
    "monthly": [
-    253,
     447,
     717,
     402,
@@ -471,7 +470,8 @@
     449,
     361,
     307,
-    595
+    595,
+    408
    ]
   },
   {
@@ -479,12 +479,11 @@
    "url": "https://en.wikipedia.org/wiki/Eros_(cat)",
    "description": "Stray cat killed by İbrahim Keloğlan",
    "word_count": 861,
-   "pageviews": 5698,
-   "pct_of_cat": 0.071,
+   "pageviews": 5926,
+   "pct_of_cat": 0.074,
    "type": "Other",
    "thumb": null,
    "monthly": [
-    432,
     585,
     491,
     540,
@@ -495,7 +494,8 @@
     428,
     374,
     411,
-    674
+    674,
+    660
    ]
   },
   {
@@ -503,12 +503,11 @@
    "url": "https://en.wikipedia.org/wiki/Oscar_(therapy_cat)",
    "description": "Cat in Rhode Island",
    "word_count": 853,
-   "pageviews": 89494,
-   "pct_of_cat": 1.118,
+   "pageviews": 89477,
+   "pct_of_cat": 1.119,
    "type": "Working cat",
    "thumb": "img/oscar-therapy-cat.jpg",
    "monthly": [
-    5086,
     7142,
     9379,
     7428,
@@ -519,7 +518,8 @@
     7990,
     6185,
     6933,
-    6072
+    6072,
+    5069
    ],
    "ai": true
   },
@@ -528,12 +528,11 @@
    "url": "https://en.wikipedia.org/wiki/Lewis_(cat)",
    "description": "Cat who gained media attention for being placed under house arrest",
    "word_count": 789,
-   "pageviews": 9320,
-   "pct_of_cat": 0.116,
+   "pageviews": 9200,
+   "pct_of_cat": 0.115,
    "type": "Other",
    "thumb": "img/lewis-cat.jpg",
    "monthly": [
-    840,
     1030,
     781,
     728,
@@ -544,7 +543,8 @@
     720,
     745,
     965,
-    621
+    621,
+    720
    ],
    "ai": true
   },
@@ -553,12 +553,11 @@
    "url": "https://en.wikipedia.org/wiki/Oscar_(bionic_cat)",
    "description": "Cat with prosthetic feet (2006 or 2007 – 2025)",
    "word_count": 789,
-   "pageviews": 25983,
-   "pct_of_cat": 0.325,
+   "pageviews": 24808,
+   "pct_of_cat": 0.31,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Oscar_the_bionic_cat.jpg/250px-Oscar_the_bionic_cat.jpg",
    "monthly": [
-    2409,
     2921,
     1961,
     2274,
@@ -569,7 +568,8 @@
     2067,
     1906,
     2241,
-    1938
+    1938,
+    1234
    ]
   },
   {
@@ -577,11 +577,10 @@
    "url": "https://en.wikipedia.org/wiki/Orangey",
    "description": "Cat actor",
    "word_count": 788,
-   "pageviews": 65039,
+   "pageviews": 64428,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Orangey_with_Audrey_Hepburn_in_Breakfast_at_Tiffanys.jpg/250px-Orangey_with_Audrey_Hepburn_in_Breakfast_at_Tiffanys.jpg",
    "monthly": [
-    5094,
     8878,
     6062,
     5538,
@@ -592,21 +591,21 @@
     4460,
     4015,
     4821,
-    4888
+    4888,
+    4483
    ],
-   "pct_of_cat": 0.813
+   "pct_of_cat": 0.806
   },
   {
    "name": "Mrs Chippy",
    "url": "https://en.wikipedia.org/wiki/Mrs_Chippy",
    "description": "Cat who accompanied Sir Ernest Shackleton's Imperial Trans-Antarctic Expedition",
    "word_count": 787,
-   "pageviews": 30621,
-   "pct_of_cat": 0.383,
+   "pageviews": 30754,
+   "pct_of_cat": 0.385,
    "type": "Ship's cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mrschippy.jpg/250px-Mrschippy.jpg",
    "monthly": [
-    2151,
     3199,
     2747,
     2544,
@@ -617,7 +616,8 @@
     2137,
     2227,
     2716,
-    2194
+    2194,
+    2284
    ]
   },
   {
@@ -625,12 +625,11 @@
    "url": "https://en.wikipedia.org/wiki/Simon_(cat)",
    "description": "Ship's cat on HMS Amethyst",
    "word_count": 787,
-   "pageviews": 57399,
-   "pct_of_cat": 0.717,
+   "pageviews": 61123,
+   "pct_of_cat": 0.764,
    "type": "Ship's cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Able_Seacat_Simon_%28fair_use%29.jpg/250px-Able_Seacat_Simon_%28fair_use%29.jpg",
    "monthly": [
-    3142,
     3884,
     6297,
     4918,
@@ -641,7 +640,8 @@
     5761,
     4111,
     8457,
-    4898
+    4898,
+    6866
    ]
   },
   {
@@ -649,12 +649,11 @@
    "url": "https://en.wikipedia.org/wiki/Gladstone_(cat)",
    "description": "Former Chief Mouser of HM Treasury at Whitehall",
    "word_count": 786,
-   "pageviews": 39404,
-   "pct_of_cat": 0.492,
+   "pageviews": 38748,
+   "pct_of_cat": 0.485,
    "type": "Working cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gladstone_a_year_in_Treasury_%281%29.jpg/250px-Gladstone_a_year_in_Treasury_%281%29.jpg",
    "monthly": [
-    2422,
     2584,
     2422,
     2407,
@@ -665,7 +664,8 @@
     1899,
     3180,
     3538,
-    2228
+    2228,
+    1766
    ]
   },
   {
@@ -673,12 +673,11 @@
    "url": "https://en.wikipedia.org/wiki/Şero",
    "description": "Mascot cat of Turkey's CHP Party",
    "word_count": 735,
-   "pageviews": 8887,
-   "pct_of_cat": 0.111,
+   "pageviews": 8616,
+   "pct_of_cat": 0.108,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%C5%9Eero_CHP.jpg/250px-%C5%9Eero_CHP.jpg",
    "monthly": [
-    834,
     809,
     651,
     620,
@@ -689,7 +688,8 @@
     707,
     760,
     991,
-    799
+    799,
+    563
    ]
   },
   {
@@ -697,12 +697,11 @@
    "url": "https://en.wikipedia.org/wiki/Buurtpoes_Bledder",
    "description": "Dutch cat (c. 2011–2013)",
    "word_count": 719,
-   "pageviews": 2679,
+   "pageviews": 2663,
    "pct_of_cat": 0.033,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Buurtpoesbledder.jpg/250px-Buurtpoesbledder.jpg",
    "monthly": [
-    226,
     205,
     255,
     199,
@@ -713,44 +712,20 @@
     222,
     237,
     236,
-    237
-   ]
-  },
-  {
-   "name": "Sockington",
-   "url": "https://en.wikipedia.org/wiki/Sockington",
-   "description": "Domestic cat internet celebrity",
-   "word_count": 692,
-   "pageviews": 7221,
-   "pct_of_cat": 0.09,
-   "type": "Internet celebrity",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sockington_from_above.jpg/250px-Sockington_from_above.jpg",
-   "monthly": [
-    616,
-    592,
-    619,
-    991,
-    585,
-    565,
-    571,
-    492,
-    525,
-    483,
-    660,
-    522
+    237,
+    210
    ]
   },
   {
    "name": "Olivia Benson (cat)",
    "url": "https://en.wikipedia.org/wiki/Olivia_Benson_(cat)",
    "description": "Taylor Swift's cat",
-   "word_count": 688,
-   "pageviews": 46434,
-   "pct_of_cat": 0.58,
+   "word_count": 694,
+   "pageviews": 46132,
+   "pct_of_cat": 0.577,
    "type": "Other",
    "thumb": "img/olivia-benson-cat.jpg",
    "monthly": [
-    4995,
     6789,
     4050,
     5192,
@@ -761,21 +736,45 @@
     2232,
     3117,
     3581,
-    2080
+    2080,
+    4693
    ],
    "ai": true
+  },
+  {
+   "name": "Sockington",
+   "url": "https://en.wikipedia.org/wiki/Sockington",
+   "description": "Domestic cat internet celebrity",
+   "word_count": 692,
+   "pageviews": 7215,
+   "pct_of_cat": 0.09,
+   "type": "Internet celebrity",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sockington_from_above.jpg/250px-Sockington_from_above.jpg",
+   "monthly": [
+    592,
+    619,
+    991,
+    585,
+    565,
+    571,
+    492,
+    525,
+    483,
+    660,
+    522,
+    610
+   ]
   },
   {
    "name": "Jorts (cat)",
    "url": "https://en.wikipedia.org/wiki/Jorts_(cat)",
    "description": "Office pet featured in labor activism",
    "word_count": 665,
-   "pageviews": 31889,
-   "pct_of_cat": 0.399,
+   "pageviews": 31501,
+   "pct_of_cat": 0.394,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg",
    "monthly": [
-    2395,
     1995,
     2723,
     2052,
@@ -786,7 +785,8 @@
     2611,
     2229,
     3093,
-    2728
+    2728,
+    2007
    ]
   },
   {
@@ -794,12 +794,11 @@
    "url": "https://en.wikipedia.org/wiki/Munich_Mouser",
    "description": "Chief Mouser to the Cabinet Office from 1937 to 1943",
    "word_count": 665,
-   "pageviews": 38609,
-   "pct_of_cat": 0.483,
+   "pageviews": 39237,
+   "pct_of_cat": 0.491,
    "type": "Government mouser",
    "thumb": "img/munich-mouser.jpg",
    "monthly": [
-    1471,
     1338,
     1461,
     1522,
@@ -810,7 +809,8 @@
     1999,
     8158,
     8837,
-    2305
+    2305,
+    2099
    ],
    "ai": true
   },
@@ -819,12 +819,11 @@
    "url": "https://en.wikipedia.org/wiki/Michi_(cat)",
    "description": "Julian Assange's cat",
    "word_count": 659,
-   "pageviews": 14570,
-   "pct_of_cat": 0.182,
+   "pageviews": 14361,
+   "pct_of_cat": 0.18,
    "type": "Other",
    "thumb": "img/michi-cat.jpg",
    "monthly": [
-    1190,
     1224,
     1170,
     1328,
@@ -835,7 +834,8 @@
     1063,
     1025,
     1306,
-    932
+    932,
+    981
    ],
    "ai": true
   },
@@ -844,12 +844,11 @@
    "url": "https://en.wikipedia.org/wiki/Polleke_(cat)",
    "description": "15th-century Dutch mummified cat",
    "word_count": 656,
-   "pageviews": 10519,
+   "pageviews": 10499,
    "pct_of_cat": 0.131,
    "type": "Other",
    "thumb": null,
    "monthly": [
-    872,
     937,
     768,
     763,
@@ -860,93 +859,20 @@
     766,
     862,
     1298,
-    880
-   ]
-  },
-  {
-   "name": "Room 8",
-   "url": "https://en.wikipedia.org/wiki/Room_8",
-   "description": "School cat from Echo Park, California, United States",
-   "word_count": 644,
-   "pageviews": 32198,
-   "pct_of_cat": 0.402,
-   "type": "Other",
-   "thumb": "img/room-8.jpg",
-   "monthly": [
-    4495,
-    2800,
-    9298,
-    1359,
-    3846,
-    1495,
-    1099,
-    1449,
-    1531,
-    1619,
-    1818,
-    1389
-   ],
-   "ai": true
-  },
-  {
-   "name": "Kkongkkong",
-   "url": "https://en.wikipedia.org/wiki/Kkongkkong",
-   "description": "South Korean cat (born c. 2019)",
-   "word_count": 622,
-   "pageviews": 30213,
-   "pct_of_cat": 0.378,
-   "type": "Internet celebrity",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kkongkkong%2C_September_10%2C_2020.jpg/250px-Kkongkkong%2C_September_10%2C_2020.jpg",
-   "monthly": [
-    0,
-    0,
-    12701,
-    2127,
-    1353,
-    4035,
-    1217,
-    2596,
-    1110,
-    1390,
-    2061,
-    1623
-   ]
-  },
-  {
-   "name": "Foss (cat)",
-   "url": "https://en.wikipedia.org/wiki/Foss_(cat)",
-   "description": "Cat owned by Edward Lear",
-   "word_count": 613,
-   "pageviews": 6338,
-   "pct_of_cat": 0.079,
-   "type": "Other",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Foss_cat.jpg/250px-Foss_cat.jpg",
-   "monthly": [
-    646,
-    661,
-    484,
-    564,
-    523,
-    475,
-    526,
-    446,
-    492,
-    453,
-    450,
-    618
+    880,
+    852
    ]
   },
   {
    "name": "Trim (cat)",
    "url": "https://en.wikipedia.org/wiki/Trim_(cat)",
    "description": "Cat belonging to explorer Matthew Flinders",
-   "word_count": 612,
-   "pageviews": 18438,
-   "pct_of_cat": 0.23,
+   "word_count": 647,
+   "pageviews": 18642,
+   "pct_of_cat": 0.233,
    "type": "Ship's cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Trim%2C_the_cat%2C_in_Donington%2C_Lincs_-_geograph.org.uk_-_218735.jpg/250px-Trim%2C_the_cat%2C_in_Donington%2C_Lincs_-_geograph.org.uk_-_218735.jpg",
    "monthly": [
-    1418,
     2130,
     1351,
     1162,
@@ -957,31 +883,81 @@
     1961,
     1306,
     1870,
-    1576
+    1576,
+    1622
    ]
   },
   {
-   "name": "Nala (cat)",
-   "url": "https://en.wikipedia.org/wiki/Nala_(cat)",
-   "description": "Tabby cat in Stevenage railway station (c. 2019 – 2025)",
-   "word_count": 606,
-   "pageviews": 76964,
-   "pct_of_cat": 0.962,
-   "type": "Station cat",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nala_the_cat_at_Stevenage_railway_station_2023-11-24.jpg/250px-Nala_the_cat_at_Stevenage_railway_station_2023-11-24.jpg",
+   "name": "Room 8",
+   "url": "https://en.wikipedia.org/wiki/Room_8",
+   "description": "School cat from Echo Park, California, United States",
+   "word_count": 644,
+   "pageviews": 28984,
+   "pct_of_cat": 0.362,
+   "type": "Other",
+   "thumb": "img/room-8.jpg",
    "monthly": [
-    1953,
-    1949,
-    1811,
-    52056,
-    4863,
-    2250,
-    2477,
-    2449,
-    2078,
-    1474,
-    2590,
-    1014
+    2800,
+    9298,
+    1359,
+    3846,
+    1495,
+    1099,
+    1449,
+    1531,
+    1619,
+    1818,
+    1389,
+    1281
+   ],
+   "ai": true
+  },
+  {
+   "name": "Kkongkkong",
+   "url": "https://en.wikipedia.org/wiki/Kkongkkong",
+   "description": "South Korean cat (born c. 2019)",
+   "word_count": 622,
+   "pageviews": 31835,
+   "pct_of_cat": 0.398,
+   "type": "Internet celebrity",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kkongkkong%2C_September_10%2C_2020.jpg/250px-Kkongkkong%2C_September_10%2C_2020.jpg",
+   "monthly": [
+    0,
+    12701,
+    2127,
+    1353,
+    4035,
+    1217,
+    2596,
+    1110,
+    1390,
+    2061,
+    1623,
+    1622
+   ]
+  },
+  {
+   "name": "Foss (cat)",
+   "url": "https://en.wikipedia.org/wiki/Foss_(cat)",
+   "description": "Cat owned by Edward Lear",
+   "word_count": 613,
+   "pageviews": 6261,
+   "pct_of_cat": 0.078,
+   "type": "Other",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Foss_cat.jpg/250px-Foss_cat.jpg",
+   "monthly": [
+    661,
+    484,
+    564,
+    523,
+    475,
+    526,
+    446,
+    492,
+    453,
+    450,
+    618,
+    569
    ]
   },
   {
@@ -989,12 +965,11 @@
    "url": "https://en.wikipedia.org/wiki/Tara_(cat)",
    "description": "Cat from viral video (born 2008)",
    "word_count": 599,
-   "pageviews": 23520,
-   "pct_of_cat": 0.294,
+   "pageviews": 23252,
+   "pct_of_cat": 0.291,
    "type": "Other",
    "thumb": "img/tara-cat.jpg",
    "monthly": [
-    1760,
     2235,
     3676,
     1507,
@@ -1005,7 +980,8 @@
     2554,
     1499,
     1637,
-    1511
+    1511,
+    1492
    ],
    "ai": true
   },
@@ -1014,12 +990,11 @@
    "url": "https://en.wikipedia.org/wiki/Longjiaosun",
    "description": "Cat and station master",
    "word_count": 588,
-   "pageviews": 12452,
-   "pct_of_cat": 0.156,
+   "pageviews": 12662,
+   "pct_of_cat": 0.158,
    "type": "Station cat",
    "thumb": "img/longjiaosun.jpg",
    "monthly": [
-    126,
     8405,
     522,
     393,
@@ -1030,7 +1005,8 @@
     318,
     406,
     505,
-    352
+    352,
+    336
    ],
    "ai": true
   },
@@ -1039,12 +1015,11 @@
    "url": "https://en.wikipedia.org/wiki/Tibs_the_Great",
    "description": "British Post Office's \"number one cat\"",
    "word_count": 586,
-   "pageviews": 19343,
-   "pct_of_cat": 0.242,
+   "pageviews": 19464,
+   "pct_of_cat": 0.243,
    "type": "Working cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Tibs_the_Great.jpg/250px-Tibs_the_Great.jpg",
    "monthly": [
-    1321,
     1442,
     1361,
     1329,
@@ -1055,20 +1030,20 @@
     1178,
     2208,
     2561,
-    1437
+    1437,
+    1442
    ]
   },
   {
    "name": "KitKat (cat)",
    "url": "https://en.wikipedia.org/wiki/KitKat_(cat)",
    "description": "Bodega cat killed by a Waymo car in 2025",
-   "word_count": 580,
-   "pageviews": 30292,
-   "pct_of_cat": 0.379,
+   "word_count": 585,
+   "pageviews": 33459,
+   "pct_of_cat": 0.418,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ofrenda_for_Kit_Kat_in_San_Francisco.jpg/250px-Ofrenda_for_Kit_Kat_in_San_Francisco.jpg",
    "monthly": [
-    0,
     0,
     1798,
     3720,
@@ -1079,7 +1054,32 @@
     3703,
     3126,
     3002,
-    2763
+    2763,
+    3167
+   ]
+  },
+  {
+   "name": "Nala (cat)",
+   "url": "https://en.wikipedia.org/wiki/Nala_(cat)",
+   "description": "Tabby cat in Stevenage railway station (c. 2019 – 2025)",
+   "word_count": 584,
+   "pageviews": 76086,
+   "pct_of_cat": 0.952,
+   "type": "Station cat",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Nala_the_cat_at_Stevenage_railway_station_2023-11-24.jpg/250px-Nala_the_cat_at_Stevenage_railway_station_2023-11-24.jpg",
+   "monthly": [
+    1949,
+    1811,
+    52056,
+    4863,
+    2250,
+    2477,
+    2449,
+    2078,
+    1474,
+    2590,
+    1014,
+    1075
    ]
   },
   {
@@ -1087,12 +1087,11 @@
    "url": "https://en.wikipedia.org/wiki/Stubbs_(cat)",
    "description": "Honorary mayor of Talkeetna, Alaska (1997–2017)",
    "word_count": 577,
-   "pageviews": 66540,
-   "pct_of_cat": 0.832,
+   "pageviews": 65777,
+   "pct_of_cat": 0.823,
    "type": "Political",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mayor_Stubbs.jpg/250px-Mayor_Stubbs.jpg",
    "monthly": [
-    5025,
     4974,
     4774,
     4403,
@@ -1103,7 +1102,8 @@
     5097,
     4971,
     11294,
-    5450
+    5450,
+    4262
    ]
   },
   {
@@ -1111,12 +1111,11 @@
    "url": "https://en.wikipedia.org/wiki/Peter_III_(cat)",
    "description": "Chief Mouser to the Cabinet Office from 1947 to 1964",
    "word_count": 576,
-   "pageviews": 53979,
-   "pct_of_cat": 0.675,
+   "pageviews": 54816,
+   "pct_of_cat": 0.686,
    "type": "Government mouser",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/5/54/Peter_III_%28cat%29.png",
    "monthly": [
-    1872,
     1694,
     1878,
     2036,
@@ -1127,7 +1126,8 @@
     2712,
     11504,
     12363,
-    3192
+    3192,
+    2709
    ]
   },
   {
@@ -1135,12 +1135,11 @@
    "url": "https://en.wikipedia.org/wiki/Scarlett_(cat)",
    "description": "New York stray cat (1995– 2008)",
    "word_count": 571,
-   "pageviews": 57182,
-   "pct_of_cat": 0.715,
+   "pageviews": 55295,
+   "pct_of_cat": 0.692,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/ScarlettTheCat.jpg/250px-ScarlettTheCat.jpg",
    "monthly": [
-    4168,
     4203,
     7945,
     3833,
@@ -1151,7 +1150,8 @@
     3311,
     2882,
     8916,
-    4232
+    4232,
+    2281
    ]
   },
   {
@@ -1159,12 +1159,11 @@
    "url": "https://en.wikipedia.org/wiki/Crimean_Tom",
    "description": "Cat associated with the British Army",
    "word_count": 553,
-   "pageviews": 8572,
-   "pct_of_cat": 0.107,
+   "pageviews": 8499,
+   "pct_of_cat": 0.106,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Crimean_Tom.jpg/250px-Crimean_Tom.jpg",
    "monthly": [
-    599,
     671,
     567,
     489,
@@ -1175,7 +1174,8 @@
     1042,
     706,
     941,
-    587
+    587,
+    526
    ]
   },
   {
@@ -1183,12 +1183,11 @@
    "url": "https://en.wikipedia.org/wiki/Dusty_the_Klepto_Kitty",
    "description": "Cat notorious for bringing home stolen items",
    "word_count": 551,
-   "pageviews": 13139,
-   "pct_of_cat": 0.164,
+   "pageviews": 13018,
+   "pct_of_cat": 0.163,
    "type": "Other",
    "thumb": "img/dusty-the-klepto-kitty.jpg",
    "monthly": [
-    969,
     1013,
     1294,
     1065,
@@ -1199,7 +1198,8 @@
     980,
     973,
     1223,
-    921
+    921,
+    848
    ],
    "ai": true
   },
@@ -1208,12 +1208,11 @@
    "url": "https://en.wikipedia.org/wiki/F._D._C._Willard",
    "description": "Cat cited as an author in scientific journals (1968–1982)",
    "word_count": 551,
-   "pageviews": 77948,
-   "pct_of_cat": 0.974,
+   "pageviews": 78102,
+   "pct_of_cat": 0.977,
    "type": "Science",
    "thumb": "img/f-d-c-willard.jpg",
    "monthly": [
-    4924,
     5982,
     5320,
     4696,
@@ -1224,7 +1223,8 @@
     6751,
     7561,
     5707,
-    6258
+    6258,
+    5078
    ],
    "ai": true
   },
@@ -1233,12 +1233,11 @@
    "url": "https://en.wikipedia.org/wiki/Hamish_McHamish",
    "description": "Ginger cat from St Andrews, Scotland",
    "word_count": 543,
-   "pageviews": 12810,
-   "pct_of_cat": 0.16,
+   "pageviews": 12946,
+   "pct_of_cat": 0.162,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hamish_McHamish_In_Bookshop.jpg/250px-Hamish_McHamish_In_Bookshop.jpg",
    "monthly": [
-    1023,
     913,
     856,
     850,
@@ -1249,7 +1248,8 @@
     1098,
     1228,
     1546,
-    1383
+    1383,
+    1159
    ]
   },
   {
@@ -1257,12 +1257,11 @@
    "url": "https://en.wikipedia.org/wiki/Stepan_(cat)",
    "description": "Ukrainian cat",
    "word_count": 542,
-   "pageviews": 21348,
-   "pct_of_cat": 0.267,
+   "pageviews": 20718,
+   "pct_of_cat": 0.259,
    "type": "Internet celebrity",
    "thumb": "img/stepan-cat.jpg",
    "monthly": [
-    1969,
     1906,
     2045,
     1769,
@@ -1273,7 +1272,8 @@
     1261,
     2859,
     1501,
-    1366
+    1366,
+    1339
    ],
    "ai": true
   },
@@ -1282,12 +1282,11 @@
    "url": "https://en.wikipedia.org/wiki/Maru_(cat)",
    "description": "Japanese cat and YouTube sensation (2007–2025)",
    "word_count": 527,
-   "pageviews": 205168,
-   "pct_of_cat": 2.564,
+   "pageviews": 73743,
+   "pct_of_cat": 0.922,
    "type": "Internet celebrity",
    "thumb": "img/maru-cat.jpg",
    "monthly": [
-    135921,
     11921,
     7116,
     6921,
@@ -1298,7 +1297,8 @@
     5839,
     4623,
     5123,
-    4754
+    4754,
+    4496
    ],
    "ai": true
   },
@@ -1307,12 +1307,11 @@
    "url": "https://en.wikipedia.org/wiki/Beerbohm_(cat)",
    "description": "Cat that lived at the Gielgud Theatre",
    "word_count": 523,
-   "pageviews": 6059,
-   "pct_of_cat": 0.076,
+   "pageviews": 6004,
+   "pct_of_cat": 0.075,
    "type": "Other",
    "thumb": "img/beerbohm-cat.jpg",
    "monthly": [
-    459,
     1098,
     577,
     432,
@@ -1323,7 +1322,8 @@
     321,
     452,
     562,
-    418
+    418,
+    404
    ],
    "ai": true
   },
@@ -1332,12 +1332,11 @@
    "url": "https://en.wikipedia.org/wiki/Peta_(cat)",
    "description": "Chief Mouser to the Cabinet Office from 1964 to 1976",
    "word_count": 523,
-   "pageviews": 46710,
-   "pct_of_cat": 0.584,
+   "pageviews": 47245,
+   "pct_of_cat": 0.591,
    "type": "Government mouser",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/a/a6/Peta_%28chief_mouser%29.jpg",
    "monthly": [
-    1799,
     1728,
     1722,
     1896,
@@ -1348,7 +1347,8 @@
     2435,
     9771,
     10768,
-    2772
+    2772,
+    2334
    ]
   },
   {
@@ -1356,11 +1356,10 @@
    "url": "https://en.wikipedia.org/wiki/Mugi_the_Cat",
    "description": "Japanese singer-songwriter (born 1997)",
    "word_count": 519,
-   "pageviews": 1604,
+   "pageviews": 1700,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MugiTheCat_202002.jpg/250px-MugiTheCat_202002.jpg",
    "monthly": [
-    119,
     119,
     128,
     133,
@@ -1371,21 +1370,21 @@
     129,
     142,
     148,
-    151
+    151,
+    215
    ],
-   "pct_of_cat": 0.02
+   "pct_of_cat": 0.021
   },
   {
    "name": "Tsim Tung Brother Cream",
    "url": "https://en.wikipedia.org/wiki/Tsim_Tung_Brother_Cream",
    "description": "British Shorthair cat (2005–2020)",
    "word_count": 512,
-   "pageviews": 4828,
-   "pct_of_cat": 0.06,
+   "pageviews": 4705,
+   "pct_of_cat": 0.059,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brother_cream_in_stall.jpg/250px-Brother_cream_in_stall.jpg",
    "monthly": [
-    479,
     475,
     420,
     434,
@@ -1396,7 +1395,8 @@
     326,
     352,
     501,
-    415
+    415,
+    356
    ]
   },
   {
@@ -1404,12 +1404,11 @@
    "url": "https://en.wikipedia.org/wiki/Hank_the_Cat",
    "description": "Maine Coon cat who ran for the United States Senate in 2012",
    "word_count": 511,
-   "pageviews": 10561,
-   "pct_of_cat": 0.132,
+   "pageviews": 10613,
+   "pct_of_cat": 0.133,
    "type": "Political",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hank_Political_Poster.jpg/250px-Hank_Political_Poster.jpg",
    "monthly": [
-    608,
     649,
     601,
     623,
@@ -1420,7 +1419,8 @@
     675,
     840,
     2197,
-    1225
+    1225,
+    660
    ]
   },
   {
@@ -1428,12 +1428,11 @@
    "url": "https://en.wikipedia.org/wiki/Ure_mummified_cat's_head",
    "description": "Egyptian animal mummy",
    "word_count": 509,
-   "pageviews": 2473,
-   "pct_of_cat": 0.031,
+   "pageviews": 2631,
+   "pct_of_cat": 0.033,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ure_Museum_mummified_cat%27s_head.jpg/250px-Ure_Museum_mummified_cat%27s_head.jpg",
    "monthly": [
-    127,
     125,
     170,
     207,
@@ -1444,7 +1443,8 @@
     203,
     185,
     403,
-    227
+    227,
+    285
    ]
   },
   {
@@ -1452,12 +1452,11 @@
    "url": "https://en.wikipedia.org/wiki/Wilberforce_(cat)",
    "description": "Chief Mouser to the Cabinet Office, 1973 to 1987",
    "word_count": 503,
-   "pageviews": 59199,
-   "pct_of_cat": 0.74,
+   "pageviews": 59892,
+   "pct_of_cat": 0.749,
    "type": "Government mouser",
    "thumb": "img/wilberforce-cat.jpg",
    "monthly": [
-    2295,
     2169,
     2160,
     2315,
@@ -1468,7 +1467,8 @@
     3085,
     12367,
     13768,
-    3531
+    3531,
+    2988
    ],
    "ai": true
   },
@@ -1477,12 +1477,11 @@
    "url": "https://en.wikipedia.org/wiki/Mike_(cat)",
    "description": "British Museum 'guardian' cat (1908–1929)",
    "word_count": 502,
-   "pageviews": 15895,
-   "pct_of_cat": 0.199,
+   "pageviews": 14013,
+   "pct_of_cat": 0.175,
    "type": "Working cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mike_the_Cat%2C_Guardian_of_the_British_Museum.png/250px-Mike_the_Cat%2C_Guardian_of_the_British_Museum.png",
    "monthly": [
-    2747,
     1751,
     1377,
     1283,
@@ -1493,19 +1492,19 @@
     1033,
     940,
     1122,
-    1020
+    1020,
+    865
    ]
   },
   {
    "name": "Freya (cat)",
    "url": "https://en.wikipedia.org/wiki/Freya_(cat)",
    "description": "Chief Mouser to the Cabinet Office from 2012 to 2014",
-   "word_count": 469,
-   "pageviews": 136402,
+   "word_count": 466,
+   "pageviews": 137568,
    "type": "Government mouser",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Freya_the_cat-20120615_132253_%28cropped%29.jpg/250px-Freya_the_cat-20120615_132253_%28cropped%29.jpg",
    "monthly": [
-    4800,
     4077,
     4727,
     4966,
@@ -1516,21 +1515,21 @@
     6568,
     30596,
     31149,
-    7335
+    7335,
+    5966
    ],
-   "pct_of_cat": 1.705
+   "pct_of_cat": 1.721
   },
   {
    "name": "Nelson (cat)",
    "url": "https://en.wikipedia.org/wiki/Nelson_(cat)",
    "description": "Chief Mouser to the Cabinet Office in the 1940s",
    "word_count": 463,
-   "pageviews": 41428,
-   "pct_of_cat": 0.518,
+   "pageviews": 41864,
+   "pct_of_cat": 0.524,
    "type": "Government mouser",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/b/b1/Cartoon_of_Nelson_%28cat%29%2C_from_Edwin_Cox%27s_%22Private_Lives%22.png",
    "monthly": [
-    1794,
     1657,
     1762,
     1772,
@@ -1541,7 +1540,8 @@
     2207,
     8170,
     8790,
-    2647
+    2647,
+    2230
    ]
   },
   {
@@ -1549,12 +1549,11 @@
    "url": "https://en.wikipedia.org/wiki/Bobby_Kertanegara",
    "description": "Pet cat owned by the Djojohadikusumo family",
    "word_count": 462,
-   "pageviews": 18443,
-   "pct_of_cat": 0.231,
+   "pageviews": 17401,
+   "pct_of_cat": 0.218,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bobby_and_his_Teddy.webp/250px-Bobby_and_his_Teddy.webp.png",
    "monthly": [
-    2201,
     1633,
     2006,
     1389,
@@ -1565,7 +1564,8 @@
     1381,
     1354,
     1657,
-    1320
+    1320,
+    1159
    ]
   },
   {
@@ -1573,8 +1573,8 @@
    "url": "https://en.wikipedia.org/wiki/Pizza_Cat",
    "description": "Cat living in Al Udeid Air Base",
    "word_count": 458,
-   "pageviews": 60036,
-   "pct_of_cat": 0.75,
+   "pageviews": 62579,
+   "pct_of_cat": 0.783,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pizza_Cat_Al_Udeid.png/250px-Pizza_Cat_Al_Udeid.png",
    "monthly": [
@@ -1586,10 +1586,10 @@
     0,
     0,
     0,
-    0,
     5142,
     51161,
-    3733
+    3733,
+    2543
    ]
   },
   {
@@ -1597,12 +1597,11 @@
    "url": "https://en.wikipedia.org/wiki/Jones_(fictional_cat)",
    "description": "Alien franchise character",
    "word_count": 451,
-   "pageviews": 68615,
-   "pct_of_cat": 0.858,
+   "pageviews": 64910,
+   "pct_of_cat": 0.812,
    "type": "Fictional",
    "thumb": "img/jones-fictional-cat.jpg",
    "monthly": [
-    9463,
     9091,
     7319,
     5376,
@@ -1613,7 +1612,8 @@
     5472,
     4123,
     4065,
-    4548
+    4548,
+    5758
    ],
    "ai": true
   },
@@ -1622,12 +1622,11 @@
    "url": "https://en.wikipedia.org/wiki/Pot_Roast_(cat)",
    "description": "Viral TikTok cat (2014–2022)",
    "word_count": 446,
-   "pageviews": 10741,
-   "pct_of_cat": 0.134,
+   "pageviews": 10509,
+   "pct_of_cat": 0.131,
    "type": "Internet celebrity",
    "thumb": "img/pot-roast-cat.jpg",
    "monthly": [
-    943,
     881,
     886,
     911,
@@ -1638,7 +1637,8 @@
     1203,
     778,
     927,
-    679
+    679,
+    711
    ],
    "ai": true
   },
@@ -1647,12 +1647,11 @@
    "url": "https://en.wikipedia.org/wiki/Fred_the_Undercover_Kitty",
    "description": "Domestic shorthaired cat",
    "word_count": 443,
-   "pageviews": 10987,
-   "pct_of_cat": 0.137,
+   "pageviews": 10894,
+   "pct_of_cat": 0.136,
    "type": "Working cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/f/f8/Fred_undercover_kitty.jpg",
    "monthly": [
-    843,
     863,
     859,
     770,
@@ -1663,20 +1662,20 @@
     768,
     818,
     1344,
-    785
+    785,
+    750
    ]
   },
   {
    "name": "Sybil (cat)",
    "url": "https://en.wikipedia.org/wiki/Sybil_(cat)",
    "description": "Chief Mouser to the Cabinet Office from 2007 to 2008",
-   "word_count": 432,
-   "pageviews": 119719,
-   "pct_of_cat": 1.496,
+   "word_count": 427,
+   "pageviews": 121719,
+   "pct_of_cat": 1.522,
    "type": "Government mouser",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/b/b5/Sybil_the_cat.jpg",
    "monthly": [
-    4140,
     3550,
     3840,
     4271,
@@ -1687,704 +1686,20 @@
     5669,
     26792,
     29409,
-    6889
-   ]
-  },
-  {
-   "name": "India (cat)",
-   "url": "https://en.wikipedia.org/wiki/India_(cat)",
-   "description": "Cat owned by US presidential Bush family",
-   "word_count": 415,
-   "pageviews": 39035,
-   "pct_of_cat": 0.488,
-   "type": "Presidential",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/IndioCat.jpg/250px-IndioCat.jpg",
-   "monthly": [
-    4064,
-    3985,
-    4298,
-    3010,
-    2959,
-    3078,
-    2825,
-    3074,
-    2826,
-    3149,
-    2833,
-    2934
-   ]
-  },
-  {
-   "name": "Frank and Louie",
-   "url": "https://en.wikipedia.org/wiki/Frank_and_Louie",
-   "description": "World's oldest diprosopus cat (1999–2014)",
-   "word_count": 406,
-   "pageviews": 54242,
-   "pct_of_cat": 0.678,
-   "type": "Record holder",
-   "thumb": "img/frank-and-louie.jpg",
-   "monthly": [
-    2533,
-    1757,
-    2715,
-    5176,
-    17169,
-    4536,
-    3048,
-    2469,
-    4245,
-    2312,
-    5571,
-    2711
-   ],
-   "ai": true
-  },
-  {
-   "name": "Gli",
-   "url": "https://en.wikipedia.org/wiki/Gli",
-   "description": "Cat in Hagia Sophia, Istanbul",
-   "word_count": 406,
-   "pageviews": 54600,
-   "pct_of_cat": 0.682,
-   "type": "Internet celebrity",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hagia_Sophia_2013-03-17g.jpg/250px-Hagia_Sophia_2013-03-17g.jpg",
-   "monthly": [
-    4379,
-    4736,
-    4290,
-    4069,
-    4531,
-    3622,
-    4581,
-    4275,
-    4667,
-    5470,
-    6187,
-    3793
-   ]
-  },
-  {
-   "name": "Simpkin (cat)",
-   "url": "https://en.wikipedia.org/wiki/Simpkin_(cat)",
-   "description": "Resident cat at the University of Oxford",
-   "word_count": 395,
-   "pageviews": 5103,
-   "pct_of_cat": 0.064,
-   "type": "Working cat",
-   "thumb": "img/simpkin-cat.jpg",
-   "monthly": [
-    321,
-    404,
-    352,
-    454,
-    436,
-    441,
-    398,
-    372,
-    397,
-    400,
-    562,
-    566
-   ],
-   "ai": true
-  },
-  {
-   "name": "Browser (cat)",
-   "url": "https://en.wikipedia.org/wiki/Browser_(cat)",
-   "description": "Library cat in White Settlement, Texas, United States",
-   "word_count": 380,
-   "pageviews": 82165,
-   "pct_of_cat": 1.027,
-   "type": "Working cat",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Browser_White_Settlement_Library_cat.jpg/250px-Browser_White_Settlement_Library_cat.jpg",
-   "monthly": [
-    2819,
-    2105,
-    1620,
-    3102,
-    2789,
-    2982,
-    2401,
-    3586,
-    54927,
-    2701,
-    1809,
-    1324
-   ]
-  },
-  {
-   "name": "Meow (cat)",
-   "url": "https://en.wikipedia.org/wiki/Meow_(cat)",
-   "description": "Cat known for obesity (c. 2010–2012)",
-   "word_count": 377,
-   "pageviews": 29772,
-   "pct_of_cat": 0.372,
-   "type": "Record holder",
-   "thumb": "https://upload.wikimedia.org/wikipedia/en/f/f5/Meow_the_fat_cat.jpg",
-   "monthly": [
-    2236,
-    2281,
-    3062,
-    3303,
-    2660,
-    2437,
-    2568,
-    2342,
-    2195,
-    2044,
-    2231,
-    2413
-   ]
-  },
-  {
-   "name": "Willow (cat)",
-   "url": "https://en.wikipedia.org/wiki/Willow_(cat)",
-   "description": "Pet cat owned by the Biden family",
-   "word_count": 374,
-   "pageviews": 52542,
-   "pct_of_cat": 0.657,
-   "type": "Presidential",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Willow_the_First_Cat.png/250px-Willow_the_First_Cat.png",
-   "monthly": [
-    4950,
-    5485,
-    5164,
-    4074,
-    4397,
-    5328,
-    3876,
-    3912,
-    3774,
-    4573,
-    3691,
-    3318
-   ]
-  },
-  {
-   "name": "Palmerston (cat)",
-   "url": "https://en.wikipedia.org/wiki/Palmerston_(cat)",
-   "description": "Cat owned by the UK's Foreign & Commonwealth Office (2014–2026)",
-   "word_count": 373,
-   "pageviews": 135189,
-   "pct_of_cat": 1.69,
-   "type": "Working cat",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/FCO_Chief_Mouser_Palmerston.jpg/250px-FCO_Chief_Mouser_Palmerston.jpg",
-   "monthly": [
-    3194,
-    3304,
-    4351,
-    3298,
-    6761,
-    66740,
-    6403,
-    5196,
-    5422,
-    12396,
-    13370,
-    4754
-   ]
-  },
-  {
-   "name": "Stewie (cat)",
-   "url": "https://en.wikipedia.org/wiki/Stewie_(cat)",
-   "description": "World's longest cat ever (c. 2005 – 2013)",
-   "word_count": 372,
-   "pageviews": 19617,
-   "pct_of_cat": 0.245,
-   "type": "Record holder",
-   "thumb": "img/stewie-cat.jpg",
-   "monthly": [
-    1309,
-    1326,
-    1374,
-    1372,
-    1569,
-    1505,
-    2031,
-    1626,
-    1742,
-    1659,
-    1966,
-    2138
-   ],
-   "ai": true
-  },
-  {
-   "name": "Catmando",
-   "url": "https://en.wikipedia.org/wiki/Catmando",
-   "description": "British cat, satirical party joint leader (1995–2002)",
-   "word_count": 368,
-   "pageviews": 41417,
-   "pct_of_cat": 0.518,
-   "type": "Other",
-   "thumb": "img/catmando.jpg",
-   "monthly": [
-    1627,
-    1286,
-    1495,
-    1191,
-    1291,
-    2814,
-    1374,
-    1296,
-    4984,
-    6263,
-    11303,
-    6493
-   ],
-   "ai": true
-  },
-  {
-   "name": "Mittens (cat)",
-   "url": "https://en.wikipedia.org/wiki/Mittens_(cat)",
-   "description": "Cat and local celebrity",
-   "word_count": 364,
-   "pageviews": 15935,
-   "pct_of_cat": 0.199,
-   "type": "Internet celebrity",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mittens_the_Cat_2018.jpg/250px-Mittens_the_Cat_2018.jpg",
-   "monthly": [
-    1274,
-    1234,
-    1342,
-    1159,
-    1542,
-    1471,
-    1244,
-    1132,
-    1214,
-    1356,
-    1740,
-    1227
-   ]
-  },
-  {
-   "name": "Dorofei",
-   "url": "https://en.wikipedia.org/wiki/Dorofei",
-   "description": "Cat who belonged to former Russian President Dmitry Medvedev",
-   "word_count": 364,
-   "pageviews": 4251,
-   "pct_of_cat": 0.053,
-   "type": "Other",
-   "thumb": "img/dorofei.jpg",
-   "monthly": [
-    489,
-    426,
-    327,
-    448,
-    387,
-    311,
-    307,
-    295,
-    268,
-    311,
-    316,
-    366
-   ],
-   "ai": true
-  },
-  {
-   "name": "Morris the Cat",
-   "url": "https://en.wikipedia.org/wiki/Morris_the_Cat",
-   "description": "Advertising mascot for cat food",
-   "word_count": 362,
-   "pageviews": 44546,
-   "pct_of_cat": 0.557,
-   "type": "Other",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Morris_the_Cat_for_President.jpg/250px-Morris_the_Cat_for_President.jpg",
-   "monthly": [
-    3529,
-    3781,
-    3594,
-    3799,
-    4052,
-    3231,
-    4310,
-    3224,
-    4363,
-    3575,
-    3532,
-    3556
-   ]
-  },
-  {
-   "name": "PepitoTheCat",
-   "url": "https://en.wikipedia.org/wiki/PepitoTheCat",
-   "description": "Automated Twitter account",
-   "word_count": 359,
-   "pageviews": 6679,
-   "pct_of_cat": 0.083,
-   "type": "Internet celebrity",
-   "thumb": null,
-   "monthly": [
-    529,
-    514,
-    401,
-    417,
-    404,
-    285,
-    410,
-    713,
-    454,
-    567,
-    1172,
-    813
-   ]
-  },
-  {
-   "name": "Gacek",
-   "url": "https://en.wikipedia.org/wiki/Gacek",
-   "description": "Famous cat in Poland",
-   "word_count": 358,
-   "pageviews": 34928,
-   "pct_of_cat": 0.437,
-   "type": "Internet celebrity",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gacek_on_the_walk.jpg/250px-Gacek_on_the_walk.jpg",
-   "monthly": [
-    2330,
-    2203,
-    7333,
-    4269,
-    2809,
-    2492,
-    2185,
-    2153,
-    2055,
-    2105,
-    2754,
-    2240
-   ]
-  },
-  {
-   "name": "Billi (cat)",
-   "url": "https://en.wikipedia.org/wiki/Billi_(cat)",
-   "description": "Feline research subject",
-   "word_count": 347,
-   "pageviews": 8185,
-   "pct_of_cat": 0.102,
-   "type": "Internet celebrity",
-   "thumb": "img/billi-cat.jpg",
-   "monthly": [
-    559,
-    623,
-    940,
-    750,
-    638,
-    871,
-    797,
-    537,
-    554,
-    716,
-    616,
-    584
-   ],
-   "ai": true
-  },
-  {
-   "name": "Peter II (cat)",
-   "url": "https://en.wikipedia.org/wiki/Peter_II_(cat)",
-   "description": "Chief Mouser to the Cabinet Office from 1946 to 1947",
-   "word_count": 345,
-   "pageviews": 38907,
-   "pct_of_cat": 0.486,
-   "type": "Government mouser",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Peter_II_death_letter.jpg/250px-Peter_II_death_letter.jpg",
-   "monthly": [
-    1430,
-    1282,
-    1435,
-    1494,
-    3624,
-    4694,
-    1451,
-    1671,
-    1932,
-    8524,
-    9130,
-    2240
-   ]
-  },
-  {
-   "name": "Tombili",
-   "url": "https://en.wikipedia.org/wiki/Tombili",
-   "description": "Famous cat from Istanbul, Turkey",
-   "word_count": 338,
-   "pageviews": 53758,
-   "pct_of_cat": 0.672,
-   "type": "Other",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tombili_the_cat_n2.jpg/250px-Tombili_the_cat_n2.jpg",
-   "monthly": [
-    4994,
-    4812,
-    5300,
-    3632,
-    4102,
-    3716,
-    4256,
-    4105,
-    4821,
-    4724,
-    4862,
-    4434
-   ]
-  },
-  {
-   "name": "Musashi's",
-   "url": "https://en.wikipedia.org/wiki/Musashi's",
-   "description": "Japanese musical group of five cats",
-   "word_count": 333,
-   "pageviews": 2594,
-   "pct_of_cat": 0.032,
-   "type": "Other",
-   "thumb": null,
-   "monthly": [
-    128,
-    138,
-    171,
-    180,
-    294,
-    227,
-    250,
-    245,
-    237,
-    246,
-    245,
-    233
-   ]
-  },
-  {
-   "name": "Flossie (cat)",
-   "url": "https://en.wikipedia.org/wiki/Flossie_(cat)",
-   "description": "Oldest living cat (born 1995)",
-   "word_count": 332,
-   "pageviews": 149508,
-   "pct_of_cat": 1.869,
-   "type": "Record holder",
-   "thumb": "img/flossie-cat.jpg",
-   "monthly": [
-    10439,
-    13992,
-    9240,
-    26184,
-    17915,
-    13598,
-    8168,
-    8617,
-    9587,
-    9501,
-    10995,
-    11272
-   ],
-   "ai": true
-  },
-  {
-   "name": "Choupette",
-   "url": "https://en.wikipedia.org/wiki/Choupette",
-   "description": "Pet cat of Karl Lagerfeld",
-   "word_count": 324,
-   "pageviews": 61060,
-   "pct_of_cat": 0.763,
-   "type": "Working cat",
-   "thumb": "img/choupette.jpg",
-   "monthly": [
-    5030,
-    4354,
-    4630,
-    5152,
-    5367,
-    5093,
-    3775,
-    3882,
-    7770,
-    7736,
-    4199,
-    4072
-   ],
-   "ai": true
-  },
-  {
-   "name": "Cheeto (cat)",
-   "url": "https://en.wikipedia.org/wiki/Cheeto_(cat)",
-   "description": "Tabby cat living at UC Davis",
-   "word_count": 323,
-   "pageviews": 6603,
-   "pct_of_cat": 0.083,
-   "type": "Other",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/UCDavisCheeto.jpg/250px-UCDavisCheeto.jpg",
-   "monthly": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    1530,
-    1004,
-    856,
-    1143,
-    769,
-    568,
-    733
-   ]
-  },
-  {
-   "name": "Elsie (cat)",
-   "url": "https://en.wikipedia.org/wiki/Elsie_(cat)",
-   "description": "Feline communication subject",
-   "word_count": 312,
-   "pageviews": 1913,
-   "pct_of_cat": 0.024,
-   "type": "Internet celebrity",
-   "thumb": "img/elsie-cat.jpg",
-   "monthly": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    280,
-    494,
-    571,
-    568
-   ],
-   "ai": true
-  },
-  {
-   "name": "Chmonya",
-   "url": "https://en.wikipedia.org/wiki/Chmonya",
-   "description": "Internet meme",
-   "word_count": 308,
-   "pageviews": 4609,
-   "pct_of_cat": 0.058,
-   "type": "Internet celebrity",
-   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Virgo_the_Cat.jpg/250px-Virgo_the_Cat.jpg",
-   "monthly": [
-    0,
-    304,
-    165,
-    186,
-    170,
-    341,
-    523,
-    474,
-    602,
-    665,
-    653,
-    526
-   ]
-  },
-  {
-   "name": "Prince Chunk",
-   "url": "https://en.wikipedia.org/wiki/Prince_Chunk",
-   "description": "Domestic shorthair cat, known for his heavy weight",
-   "word_count": 298,
-   "pageviews": 9154,
-   "pct_of_cat": 0.114,
-   "type": "Other",
-   "thumb": "img/prince-chunk.jpg",
-   "monthly": [
-    728,
-    841,
-    750,
-    711,
-    774,
-    740,
-    944,
-    824,
-    641,
-    696,
-    870,
-    635
-   ],
-   "ai": true
-  },
-  {
-   "name": "Little Nicky (cat)",
-   "url": "https://en.wikipedia.org/wiki/Little_Nicky_(cat)",
-   "description": "First commercially produced clone of a cat",
-   "word_count": 297,
-   "pageviews": 10550,
-   "pct_of_cat": 0.132,
-   "type": "Cloned",
-   "thumb": "img/little-nicky-cat.jpg",
-   "monthly": [
-    949,
-    1090,
-    1020,
-    875,
-    869,
-    940,
-    833,
-    758,
-    757,
-    736,
-    873,
-    850
-   ],
-   "ai": true
-  },
-  {
-   "name": "Peter (chief mouser)",
-   "url": "https://en.wikipedia.org/wiki/Peter_(chief_mouser)",
-   "description": "Chief Mouser to the Cabinet Office, 1929 to 1946",
-   "word_count": 273,
-   "pageviews": 45278,
-   "pct_of_cat": 0.566,
-   "type": "Government mouser",
-   "thumb": "img/peter-chief-mouser.jpg",
-   "monthly": [
-    1702,
-    1515,
-    1638,
-    1605,
-    3889,
-    5618,
-    1583,
-    1991,
-    2256,
-    9604,
-    10291,
-    3586
-   ],
-   "ai": true
-  },
-  {
-   "name": "Mr. Nuts",
-   "url": "https://en.wikipedia.org/wiki/Mr._Nuts",
-   "description": "Tuxedo cat said to predict contest losers",
-   "word_count": 272,
-   "pageviews": 1739,
-   "pct_of_cat": 0.022,
-   "type": "Other",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mr_Nuts_Executive_Portrait.jpg/250px-Mr_Nuts_Executive_Portrait.jpg",
-   "monthly": [
-    106,
-    99,
-    104,
-    102,
-    149,
-    136,
-    116,
-    109,
-    140,
-    182,
-    315,
-    181
+    6889,
+    6140
    ]
   },
   {
    "name": "Ithaca Kitty",
    "url": "https://en.wikipedia.org/wiki/Ithaca_Kitty",
    "description": "Popular US stuffed toy introduced in 1892",
-   "word_count": 269,
-   "pageviews": 14853,
-   "pct_of_cat": 0.186,
+   "word_count": 415,
+   "pageviews": 15274,
+   "pct_of_cat": 0.191,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ithaca_Kitty_Patent.jpg/250px-Ithaca_Kitty_Patent.jpg",
    "monthly": [
-    1223,
     1222,
     1270,
     1190,
@@ -2395,44 +1710,655 @@
     1057,
     1123,
     1208,
-    2136
+    2136,
+    1644
    ]
   },
   {
-   "name": "Scarlett's Magic",
-   "url": "https://en.wikipedia.org/wiki/Scarlett's_Magic",
-   "description": "Former world's tallest domestic cat (Savannah)",
-   "word_count": 269,
-   "pageviews": 4082,
-   "pct_of_cat": 0.051,
-   "type": "Record holder",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Guinness_Cat_6.jpg/250px-Guinness_Cat_6.jpg",
+   "name": "India (cat)",
+   "url": "https://en.wikipedia.org/wiki/India_(cat)",
+   "description": "Cat owned by US presidential Bush family",
+   "word_count": 414,
+   "pageviews": 39502,
+   "pct_of_cat": 0.494,
+   "type": "Presidential",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/IndioCat.jpg/250px-IndioCat.jpg",
    "monthly": [
-    324,
-    377,
-    365,
-    350,
-    325,
-    317,
-    346,
-    303,
-    247,
-    469,
-    321,
-    338
+    3985,
+    4298,
+    3010,
+    2959,
+    3078,
+    2825,
+    3074,
+    2826,
+    3149,
+    2833,
+    2934,
+    4531
    ]
+  },
+  {
+   "name": "Frank and Louie",
+   "url": "https://en.wikipedia.org/wiki/Frank_and_Louie",
+   "description": "World's oldest diprosopus cat (1999–2014)",
+   "word_count": 406,
+   "pageviews": 54435,
+   "pct_of_cat": 0.681,
+   "type": "Record holder",
+   "thumb": "img/frank-and-louie.jpg",
+   "monthly": [
+    1757,
+    2715,
+    5176,
+    17169,
+    4536,
+    3048,
+    2469,
+    4245,
+    2312,
+    5571,
+    2711,
+    2726
+   ],
+   "ai": true
+  },
+  {
+   "name": "Gli",
+   "url": "https://en.wikipedia.org/wiki/Gli",
+   "description": "Cat in Hagia Sophia, Istanbul",
+   "word_count": 406,
+   "pageviews": 53716,
+   "pct_of_cat": 0.672,
+   "type": "Internet celebrity",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hagia_Sophia_2013-03-17g.jpg/250px-Hagia_Sophia_2013-03-17g.jpg",
+   "monthly": [
+    4736,
+    4290,
+    4069,
+    4531,
+    3622,
+    4581,
+    4275,
+    4667,
+    5470,
+    6187,
+    3793,
+    3495
+   ]
+  },
+  {
+   "name": "Simpkin (cat)",
+   "url": "https://en.wikipedia.org/wiki/Simpkin_(cat)",
+   "description": "Resident cat at the University of Oxford",
+   "word_count": 395,
+   "pageviews": 5225,
+   "pct_of_cat": 0.065,
+   "type": "Working cat",
+   "thumb": "img/simpkin-cat.jpg",
+   "monthly": [
+    404,
+    352,
+    454,
+    436,
+    441,
+    398,
+    372,
+    397,
+    400,
+    562,
+    566,
+    443
+   ],
+   "ai": true
+  },
+  {
+   "name": "Browser (cat)",
+   "url": "https://en.wikipedia.org/wiki/Browser_(cat)",
+   "description": "Library cat in White Settlement, Texas, United States",
+   "word_count": 380,
+   "pageviews": 81646,
+   "pct_of_cat": 1.021,
+   "type": "Working cat",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Browser_White_Settlement_Library_cat.jpg/250px-Browser_White_Settlement_Library_cat.jpg",
+   "monthly": [
+    2105,
+    1620,
+    3102,
+    2789,
+    2982,
+    2401,
+    3586,
+    54927,
+    2701,
+    1809,
+    1324,
+    2300
+   ]
+  },
+  {
+   "name": "Meow (cat)",
+   "url": "https://en.wikipedia.org/wiki/Meow_(cat)",
+   "description": "Cat known for obesity (c. 2010–2012)",
+   "word_count": 377,
+   "pageviews": 30076,
+   "pct_of_cat": 0.376,
+   "type": "Record holder",
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/f/f5/Meow_the_fat_cat.jpg",
+   "monthly": [
+    2281,
+    3062,
+    3303,
+    2660,
+    2437,
+    2568,
+    2342,
+    2195,
+    2044,
+    2231,
+    2413,
+    2540
+   ]
+  },
+  {
+   "name": "Willow (cat)",
+   "url": "https://en.wikipedia.org/wiki/Willow_(cat)",
+   "description": "Pet cat owned by the Biden family",
+   "word_count": 374,
+   "pageviews": 53565,
+   "pct_of_cat": 0.67,
+   "type": "Presidential",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Willow_the_First_Cat.png/250px-Willow_the_First_Cat.png",
+   "monthly": [
+    5485,
+    5164,
+    4074,
+    4397,
+    5328,
+    3876,
+    3912,
+    3774,
+    4573,
+    3691,
+    3318,
+    5973
+   ]
+  },
+  {
+   "name": "Stewie (cat)",
+   "url": "https://en.wikipedia.org/wiki/Stewie_(cat)",
+   "description": "World's longest cat ever (c. 2005 – 2013)",
+   "word_count": 372,
+   "pageviews": 20604,
+   "pct_of_cat": 0.258,
+   "type": "Record holder",
+   "thumb": "img/stewie-cat.jpg",
+   "monthly": [
+    1326,
+    1374,
+    1372,
+    1569,
+    1505,
+    2031,
+    1626,
+    1742,
+    1659,
+    1966,
+    2138,
+    2296
+   ],
+   "ai": true
+  },
+  {
+   "name": "Palmerston (cat)",
+   "url": "https://en.wikipedia.org/wiki/Palmerston_(cat)",
+   "description": "Cat owned by the UK's Foreign & Commonwealth Office (2014–2026)",
+   "word_count": 370,
+   "pageviews": 136183,
+   "pct_of_cat": 1.703,
+   "type": "Working cat",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/FCO_Chief_Mouser_Palmerston.jpg/250px-FCO_Chief_Mouser_Palmerston.jpg",
+   "monthly": [
+    3304,
+    4351,
+    3298,
+    6761,
+    66740,
+    6403,
+    5196,
+    5422,
+    12396,
+    13370,
+    4754,
+    4188
+   ]
+  },
+  {
+   "name": "Catmando",
+   "url": "https://en.wikipedia.org/wiki/Catmando",
+   "description": "British cat, satirical party joint leader (1995–2002)",
+   "word_count": 368,
+   "pageviews": 41272,
+   "pct_of_cat": 0.516,
+   "type": "Other",
+   "thumb": "img/catmando.jpg",
+   "monthly": [
+    1286,
+    1495,
+    1191,
+    1291,
+    2814,
+    1374,
+    1296,
+    4984,
+    6263,
+    11303,
+    6493,
+    1482
+   ],
+   "ai": true
+  },
+  {
+   "name": "Mittens (cat)",
+   "url": "https://en.wikipedia.org/wiki/Mittens_(cat)",
+   "description": "Cat and local celebrity",
+   "word_count": 364,
+   "pageviews": 16210,
+   "pct_of_cat": 0.203,
+   "type": "Internet celebrity",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mittens_the_Cat_2018.jpg/250px-Mittens_the_Cat_2018.jpg",
+   "monthly": [
+    1234,
+    1342,
+    1159,
+    1542,
+    1471,
+    1244,
+    1132,
+    1214,
+    1356,
+    1740,
+    1227,
+    1549
+   ]
+  },
+  {
+   "name": "Dorofei",
+   "url": "https://en.wikipedia.org/wiki/Dorofei",
+   "description": "Cat who belonged to former Russian President Dmitry Medvedev",
+   "word_count": 364,
+   "pageviews": 4144,
+   "pct_of_cat": 0.052,
+   "type": "Other",
+   "thumb": "img/dorofei.jpg",
+   "monthly": [
+    426,
+    327,
+    448,
+    387,
+    311,
+    307,
+    295,
+    268,
+    311,
+    316,
+    366,
+    382
+   ],
+   "ai": true
+  },
+  {
+   "name": "Morris the Cat",
+   "url": "https://en.wikipedia.org/wiki/Morris_the_Cat",
+   "description": "Advertising mascot for cat food",
+   "word_count": 362,
+   "pageviews": 44460,
+   "pct_of_cat": 0.556,
+   "type": "Other",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Morris_the_Cat_for_President.jpg/250px-Morris_the_Cat_for_President.jpg",
+   "monthly": [
+    3781,
+    3594,
+    3799,
+    4052,
+    3231,
+    4310,
+    3224,
+    4363,
+    3575,
+    3532,
+    3556,
+    3443
+   ]
+  },
+  {
+   "name": "Gacek",
+   "url": "https://en.wikipedia.org/wiki/Gacek",
+   "description": "Famous cat in Poland",
+   "word_count": 358,
+   "pageviews": 34876,
+   "pct_of_cat": 0.436,
+   "type": "Internet celebrity",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gacek_on_the_walk.jpg/250px-Gacek_on_the_walk.jpg",
+   "monthly": [
+    2203,
+    7333,
+    4269,
+    2809,
+    2492,
+    2185,
+    2153,
+    2055,
+    2105,
+    2754,
+    2240,
+    2278
+   ]
+  },
+  {
+   "name": "PepitoTheCat",
+   "url": "https://en.wikipedia.org/wiki/PepitoTheCat",
+   "description": "Automated Twitter account",
+   "word_count": 355,
+   "pageviews": 7333,
+   "pct_of_cat": 0.092,
+   "type": "Internet celebrity",
+   "thumb": null,
+   "monthly": [
+    514,
+    401,
+    417,
+    404,
+    285,
+    410,
+    713,
+    454,
+    567,
+    1172,
+    813,
+    1183
+   ]
+  },
+  {
+   "name": "Billi (cat)",
+   "url": "https://en.wikipedia.org/wiki/Billi_(cat)",
+   "description": "Feline research subject",
+   "word_count": 347,
+   "pageviews": 8198,
+   "pct_of_cat": 0.103,
+   "type": "Internet celebrity",
+   "thumb": "img/billi-cat.jpg",
+   "monthly": [
+    623,
+    940,
+    750,
+    638,
+    871,
+    797,
+    537,
+    554,
+    716,
+    616,
+    584,
+    572
+   ],
+   "ai": true
+  },
+  {
+   "name": "Peter II (cat)",
+   "url": "https://en.wikipedia.org/wiki/Peter_II_(cat)",
+   "description": "Chief Mouser to the Cabinet Office from 1946 to 1947",
+   "word_count": 342,
+   "pageviews": 39425,
+   "pct_of_cat": 0.493,
+   "type": "Government mouser",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Peter_II_death_letter.jpg/250px-Peter_II_death_letter.jpg",
+   "monthly": [
+    1282,
+    1435,
+    1494,
+    3624,
+    4694,
+    1451,
+    1671,
+    1932,
+    8524,
+    9130,
+    2240,
+    1948
+   ]
+  },
+  {
+   "name": "Tombili",
+   "url": "https://en.wikipedia.org/wiki/Tombili",
+   "description": "Famous cat from Istanbul, Turkey",
+   "word_count": 338,
+   "pageviews": 53441,
+   "pct_of_cat": 0.668,
+   "type": "Other",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tombili_the_cat_n2.jpg/250px-Tombili_the_cat_n2.jpg",
+   "monthly": [
+    4812,
+    5300,
+    3632,
+    4102,
+    3716,
+    4256,
+    4105,
+    4821,
+    4724,
+    4862,
+    4434,
+    4677
+   ]
+  },
+  {
+   "name": "Musashi's",
+   "url": "https://en.wikipedia.org/wiki/Musashi's",
+   "description": "Japanese musical group of five cats",
+   "word_count": 333,
+   "pageviews": 2783,
+   "pct_of_cat": 0.035,
+   "type": "Other",
+   "thumb": null,
+   "monthly": [
+    138,
+    171,
+    180,
+    294,
+    227,
+    250,
+    245,
+    237,
+    246,
+    245,
+    233,
+    317
+   ]
+  },
+  {
+   "name": "Flossie (cat)",
+   "url": "https://en.wikipedia.org/wiki/Flossie_(cat)",
+   "description": "Oldest living cat (born 1995)",
+   "word_count": 332,
+   "pageviews": 149515,
+   "pct_of_cat": 1.87,
+   "type": "Record holder",
+   "thumb": "img/flossie-cat.jpg",
+   "monthly": [
+    13992,
+    9240,
+    26184,
+    17915,
+    13598,
+    8168,
+    8617,
+    9587,
+    9501,
+    10995,
+    11272,
+    10446
+   ],
+   "ai": true
+  },
+  {
+   "name": "Choupette",
+   "url": "https://en.wikipedia.org/wiki/Choupette",
+   "description": "Pet cat of Karl Lagerfeld",
+   "word_count": 324,
+   "pageviews": 60000,
+   "pct_of_cat": 0.75,
+   "type": "Working cat",
+   "thumb": "img/choupette.jpg",
+   "monthly": [
+    4354,
+    4630,
+    5152,
+    5367,
+    5093,
+    3775,
+    3882,
+    7770,
+    7736,
+    4199,
+    4072,
+    3970
+   ],
+   "ai": true
+  },
+  {
+   "name": "Cheeto (cat)",
+   "url": "https://en.wikipedia.org/wiki/Cheeto_(cat)",
+   "description": "Tabby cat living at UC Davis",
+   "word_count": 323,
+   "pageviews": 7794,
+   "pct_of_cat": 0.097,
+   "type": "Other",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/UCDavisCheeto.jpg/250px-UCDavisCheeto.jpg",
+   "monthly": [
+    0,
+    0,
+    0,
+    0,
+    1530,
+    1004,
+    856,
+    1143,
+    769,
+    568,
+    733,
+    1191
+   ]
+  },
+  {
+   "name": "Elsie (cat)",
+   "url": "https://en.wikipedia.org/wiki/Elsie_(cat)",
+   "description": "Feline communication subject",
+   "word_count": 312,
+   "pageviews": 2357,
+   "pct_of_cat": 0.029,
+   "type": "Internet celebrity",
+   "thumb": "img/elsie-cat.jpg",
+   "monthly": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    280,
+    494,
+    571,
+    568,
+    444
+   ],
+   "ai": true
+  },
+  {
+   "name": "Chmonya",
+   "url": "https://en.wikipedia.org/wiki/Chmonya",
+   "description": "Internet meme",
+   "word_count": 308,
+   "pageviews": 5132,
+   "pct_of_cat": 0.064,
+   "type": "Internet celebrity",
+   "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Virgo_the_Cat.jpg/250px-Virgo_the_Cat.jpg",
+   "monthly": [
+    304,
+    165,
+    186,
+    170,
+    341,
+    523,
+    474,
+    602,
+    665,
+    653,
+    526,
+    523
+   ]
+  },
+  {
+   "name": "Prince Chunk",
+   "url": "https://en.wikipedia.org/wiki/Prince_Chunk",
+   "description": "Domestic shorthair cat, known for his heavy weight",
+   "word_count": 298,
+   "pageviews": 9132,
+   "pct_of_cat": 0.114,
+   "type": "Other",
+   "thumb": "img/prince-chunk.jpg",
+   "monthly": [
+    841,
+    750,
+    711,
+    774,
+    740,
+    944,
+    824,
+    641,
+    696,
+    870,
+    635,
+    706
+   ],
+   "ai": true
+  },
+  {
+   "name": "Little Nicky (cat)",
+   "url": "https://en.wikipedia.org/wiki/Little_Nicky_(cat)",
+   "description": "First commercially produced clone of a cat",
+   "word_count": 297,
+   "pageviews": 10360,
+   "pct_of_cat": 0.13,
+   "type": "Cloned",
+   "thumb": "img/little-nicky-cat.jpg",
+   "monthly": [
+    1090,
+    1020,
+    875,
+    869,
+    940,
+    833,
+    758,
+    757,
+    736,
+    873,
+    850,
+    759
+   ],
+   "ai": true
   },
   {
    "name": "Creme Puff (cat)",
    "url": "https://en.wikipedia.org/wiki/Creme_Puff_(cat)",
    "description": "Oldest known cat (1967–2005)",
-   "word_count": 265,
-   "pageviews": 377159,
-   "pct_of_cat": 4.714,
+   "word_count": 275,
+   "pageviews": 375352,
+   "pct_of_cat": 4.694,
    "type": "Record holder",
    "thumb": "img/creme-puff-cat.jpg",
    "monthly": [
-    32563,
     36043,
     29747,
     39185,
@@ -2443,21 +2369,94 @@
     27004,
     27783,
     31542,
-    31414
+    31414,
+    30756
    ],
    "ai": true
+  },
+  {
+   "name": "Peter (chief mouser)",
+   "url": "https://en.wikipedia.org/wiki/Peter_(chief_mouser)",
+   "description": "Chief Mouser to the Cabinet Office, 1929 to 1946",
+   "word_count": 273,
+   "pageviews": 45896,
+   "pct_of_cat": 0.574,
+   "type": "Government mouser",
+   "thumb": "img/peter-chief-mouser.jpg",
+   "monthly": [
+    1515,
+    1638,
+    1605,
+    3889,
+    5618,
+    1583,
+    1991,
+    2256,
+    9604,
+    10291,
+    3586,
+    2320
+   ],
+   "ai": true
+  },
+  {
+   "name": "Mr. Nuts",
+   "url": "https://en.wikipedia.org/wiki/Mr._Nuts",
+   "description": "Tuxedo cat said to predict contest losers",
+   "word_count": 272,
+   "pageviews": 1786,
+   "pct_of_cat": 0.022,
+   "type": "Other",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mr_Nuts_Executive_Portrait.jpg/250px-Mr_Nuts_Executive_Portrait.jpg",
+   "monthly": [
+    99,
+    104,
+    102,
+    149,
+    136,
+    116,
+    109,
+    140,
+    182,
+    315,
+    181,
+    153
+   ]
+  },
+  {
+   "name": "Scarlett's Magic",
+   "url": "https://en.wikipedia.org/wiki/Scarlett's_Magic",
+   "description": "Former world's tallest domestic cat (Savannah)",
+   "word_count": 269,
+   "pageviews": 4102,
+   "pct_of_cat": 0.051,
+   "type": "Record holder",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Guinness_Cat_6.jpg/250px-Guinness_Cat_6.jpg",
+   "monthly": [
+    377,
+    365,
+    350,
+    325,
+    317,
+    346,
+    303,
+    247,
+    469,
+    321,
+    338,
+    344
+   ]
   },
   {
    "name": "Winnie (feline)",
    "url": "https://en.wikipedia.org/wiki/Winnie_(feline)",
    "description": "Supposed big cat sighted in the Veluwe region of the Netherlands",
    "word_count": 263,
-   "pageviews": 1756,
+   "pageviews": 1745,
    "pct_of_cat": 0.022,
    "type": "Other",
    "thumb": "img/winnie-feline.jpg",
    "monthly": [
-    139,
     149,
     150,
     199,
@@ -2468,7 +2467,8 @@
     122,
     140,
     181,
-    167
+    167,
+    128
    ],
    "ai": true
   },
@@ -2477,12 +2477,11 @@
    "url": "https://en.wikipedia.org/wiki/Rufus_of_England",
    "description": "Chief Mouser to the Cabinet Office in 1924",
    "word_count": 258,
-   "pageviews": 42935,
-   "pct_of_cat": 0.537,
+   "pageviews": 44008,
+   "pct_of_cat": 0.55,
    "type": "Government mouser",
    "thumb": "img/rufus-of-england.jpg",
    "monthly": [
-    1592,
     1537,
     1533,
     1549,
@@ -2493,7 +2492,8 @@
     2017,
     8956,
     9491,
-    4052
+    4052,
+    2665
    ],
    "ai": true
   },
@@ -2502,12 +2502,11 @@
    "url": "https://en.wikipedia.org/wiki/Colonel_Meow",
    "description": "American Himalayan-Persian crossbread cat (2011-2014)",
    "word_count": 249,
-   "pageviews": 16027,
-   "pct_of_cat": 0.2,
+   "pageviews": 15928,
+   "pct_of_cat": 0.199,
    "type": "Internet celebrity",
    "thumb": "img/colonel-meow.jpg",
    "monthly": [
-    1349,
     1414,
     1366,
     1344,
@@ -2518,7 +2517,8 @@
     1260,
     1282,
     1766,
-    1277
+    1277,
+    1250
    ],
    "ai": true
   },
@@ -2527,12 +2527,11 @@
    "url": "https://en.wikipedia.org/wiki/CC_(cat)",
    "description": "Cloned cat",
    "word_count": 248,
-   "pageviews": 35155,
-   "pct_of_cat": 0.439,
+   "pageviews": 34659,
+   "pct_of_cat": 0.433,
    "type": "Cloned",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ccandowner2003.jpg/250px-Ccandowner2003.jpg",
    "monthly": [
-    2705,
     5636,
     2966,
     3942,
@@ -2543,7 +2542,8 @@
     2524,
     2240,
     2522,
-    2726
+    2726,
+    2209
    ]
   },
   {
@@ -2551,12 +2551,11 @@
    "url": "https://en.wikipedia.org/wiki/Longcat",
    "description": "Domestic cat (2002–2020)",
    "word_count": 242,
-   "pageviews": 60743,
-   "pct_of_cat": 0.759,
+   "pageviews": 60068,
+   "pct_of_cat": 0.751,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/3/3d/Longcat_is_loooooooooong.jpg",
    "monthly": [
-    5051,
     5225,
     4041,
     4610,
@@ -2567,7 +2566,8 @@
     5046,
     5789,
     5687,
-    6109
+    6109,
+    4376
    ]
   },
   {
@@ -2575,12 +2575,11 @@
    "url": "https://en.wikipedia.org/wiki/Venus_(cat)",
    "description": "American tortoiseshell cat (born 2009)",
    "word_count": 237,
-   "pageviews": 19436,
-   "pct_of_cat": 0.243,
+   "pageviews": 20540,
+   "pct_of_cat": 0.257,
    "type": "Internet celebrity",
    "thumb": "img/venus-cat.jpg",
    "monthly": [
-    1000,
     1065,
     819,
     1032,
@@ -2591,7 +2590,8 @@
     1020,
     928,
     1201,
-    8660
+    8660,
+    2104
    ],
    "ai": true
   },
@@ -2600,12 +2600,11 @@
    "url": "https://en.wikipedia.org/wiki/Nora_(cat)",
    "description": "Cat known for playing piano",
    "word_count": 234,
-   "pageviews": 27568,
-   "pct_of_cat": 0.345,
+   "pageviews": 25649,
+   "pct_of_cat": 0.321,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e4/NoraPianoCat.jpg",
    "monthly": [
-    3675,
     1320,
     1322,
     1237,
@@ -2616,7 +2615,8 @@
     5203,
     1836,
     2090,
-    5389
+    5389,
+    1756
    ]
   },
   {
@@ -2624,12 +2624,11 @@
    "url": "https://en.wikipedia.org/wiki/Luna_the_Fashion_Kitty",
    "description": "Himalayan cat and internet celebrity",
    "word_count": 232,
-   "pageviews": 2866,
+   "pageviews": 2861,
    "pct_of_cat": 0.036,
    "type": "Internet celebrity",
    "thumb": "img/luna-the-fashion-kitty.jpg",
    "monthly": [
-    233,
     230,
     266,
     290,
@@ -2640,7 +2639,8 @@
     232,
     250,
     254,
-    240
+    240,
+    228
    ],
    "ai": true
   },
@@ -2649,12 +2649,11 @@
    "url": "https://en.wikipedia.org/wiki/Smudge_(People's_Palace_cat)",
    "description": "Cat at the People's Palace museum, Glasgow",
    "word_count": 230,
-   "pageviews": 8979,
-   "pct_of_cat": 0.112,
+   "pageviews": 9191,
+   "pct_of_cat": 0.115,
    "type": "Working cat",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Smudge_cat.jpg/250px-Smudge_cat.jpg",
    "monthly": [
-    435,
     499,
     894,
     449,
@@ -2665,7 +2664,8 @@
     433,
     462,
     629,
-    544
+    544,
+    647
    ]
   },
   {
@@ -2673,12 +2673,11 @@
    "url": "https://en.wikipedia.org/wiki/Lord_Tubbington",
    "description": "Bengal cat known for role on the television series Glee",
    "word_count": 216,
-   "pageviews": 1316,
-   "pct_of_cat": 0.016,
+   "pageviews": 1520,
+   "pct_of_cat": 0.019,
    "type": "Other",
    "thumb": "img/lord-tubbington.jpg",
    "monthly": [
-    0,
     0,
     0,
     0,
@@ -2689,7 +2688,8 @@
     102,
     88,
     104,
-    168
+    168,
+    204
    ],
    "ai": true
   },
@@ -2698,12 +2698,11 @@
    "url": "https://en.wikipedia.org/wiki/Rusik",
    "description": "Russian police sniffer cat",
    "word_count": 205,
-   "pageviews": 13391,
-   "pct_of_cat": 0.167,
+   "pageviews": 13277,
+   "pct_of_cat": 0.166,
    "type": "Working cat",
    "thumb": "img/rusik.jpg",
    "monthly": [
-    1047,
     979,
     910,
     1129,
@@ -2714,7 +2713,8 @@
     937,
     1202,
     1797,
-    1105
+    1105,
+    933
    ],
    "ai": true
   },
@@ -2723,12 +2723,11 @@
    "url": "https://en.wikipedia.org/wiki/Micka_(cat)",
    "description": "Cat owned by Petr Pavel",
    "word_count": 195,
-   "pageviews": 9195,
-   "pct_of_cat": 0.115,
+   "pageviews": 9010,
+   "pct_of_cat": 0.113,
    "type": "Other",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Petr_Pavel.jpg/250px-Petr_Pavel.jpg",
    "monthly": [
-    825,
     852,
     726,
     703,
@@ -2739,7 +2738,8 @@
     618,
     817,
     1079,
-    677
+    677,
+    640
    ]
   },
   {
@@ -2747,12 +2747,11 @@
    "url": "https://en.wikipedia.org/wiki/Tuxedo_Stan",
    "description": "Cat who \"ran for mayor\" in Halifax, Nova Scotia",
    "word_count": 190,
-   "pageviews": 16169,
-   "pct_of_cat": 0.202,
+   "pageviews": 15845,
+   "pct_of_cat": 0.198,
    "type": "Other",
    "thumb": "img/tuxedo-stan.jpg",
    "monthly": [
-    1451,
     1446,
     1335,
     1238,
@@ -2763,7 +2762,8 @@
     1146,
     1447,
     1943,
-    1195
+    1195,
+    1127
    ],
    "ai": true
   },
@@ -2772,12 +2772,11 @@
    "url": "https://en.wikipedia.org/wiki/Paddles_(cat)",
    "description": "Pet owned by Jacinda Ardern (2016–2017)",
    "word_count": 173,
-   "pageviews": 15265,
-   "pct_of_cat": 0.191,
+   "pageviews": 14810,
+   "pct_of_cat": 0.185,
    "type": "Internet celebrity",
    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Paddles_%28cat%29.jpg/250px-Paddles_%28cat%29.jpg",
    "monthly": [
-    1442,
     1357,
     1415,
     1380,
@@ -2788,7 +2787,8 @@
     1048,
     1200,
     1478,
-    1132
+    1132,
+    987
    ]
   },
   {
@@ -2796,12 +2796,11 @@
    "url": "https://en.wikipedia.org/wiki/Peter_(Lord's_cat)",
    "description": "Cat at Lord's Cricket Ground in London",
    "word_count": 150,
-   "pageviews": 2144,
-   "pct_of_cat": 0.027,
+   "pageviews": 2232,
+   "pct_of_cat": 0.028,
    "type": "Other",
    "thumb": "img/peter-lord-s-cat.jpg",
    "monthly": [
-    139,
     142,
     171,
     152,
@@ -2812,7 +2811,8 @@
     199,
     197,
     240,
-    263
+    263,
+    227
    ],
    "ai": true
   },
@@ -2821,12 +2821,11 @@
    "url": "https://en.wikipedia.org/wiki/Chico_(cat)",
    "description": "Narrator of an authorized biography of Pope Benedict XVI",
    "word_count": 131,
-   "pageviews": 2008,
+   "pageviews": 2014,
    "pct_of_cat": 0.025,
    "type": "Other",
    "thumb": "img/chico-cat.jpg",
    "monthly": [
-    180,
     161,
     119,
     183,
@@ -2837,7 +2836,8 @@
     147,
     165,
     141,
-    183
+    183,
+    186
    ],
    "ai": true
   }
